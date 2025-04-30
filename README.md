@@ -6,7 +6,8 @@ A Universal Dependencies (UD) treebank for the dialect of Lesbos, a low-resource
 # Introduction
 
 The Lesbos dialect belongs to the Northern Modern Greek dialect group, characterized by distinctive phonological features collectively known as "Northern vocalism." These features include:
-•	Raising of unstressed mid vowels /e/ and /o/ into [i] and [u], respectively (e.g., πιδί [piˈði] instead of SMG παιδί [peˈði] 'child', κάτου [ˈkatu] instead of SMG κάτω [ˈkato] 'down')
+
+  •	Raising of unstressed mid vowels /e/ and /o/ into [i] and [u], respectively (e.g., πιδί [piˈði] instead of SMG παιδί [peˈði] 'child', κάτου [ˈkatu] instead of SMG κάτω [ˈkato] 'down')
 
 •	Deletion of unstressed high vowels /i/, /u/ (e.g., φίδ [ˈfið] instead of SMG φίδι [ˈfiði] 'snake', βνό [ˈvno] instead of SMG βουνό [vuˈno] 'mountain')
 These features significantly distinguish the dialect of Lesbos from Southern dialects, including Standard Modern Greek (SMG). The dialect has been historically shaped by extensive contact with Italo-Romance (particularly Venetian) during 1355-1462 and Turkish during the Ottoman period (1462-1912), resulting in numerous loanwords and morphological elements. Unlike most Modern Greek dialects, Lesbian remains vital today, serving as the primary means of communication throughout the island.
