@@ -70,13 +70,8 @@ The corpus draws from six main sources representing different text types and dia
 
 * Sentences: 270
 
-* Tokens: 3,603 (combining train, development, and test sets)
+* Tokens: 3,603
 
-* Training set: 180 sentences, 2,381 tokens
-
-* Development set: 60 sentences, 826 tokens
-
-* Test set: 30 sentences, 396 tokens
 
 ## Acknowledgments
 
