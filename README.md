@@ -16,7 +16,7 @@ This treebank represents the first Universal Dependencies resource for a Norther
 
 ## Annotation Process
 
-The treebank follows the UD annotation guidelines established for UD_Greek-GUD (Markantonatou et al., 2025), complemented by grammatical descriptions and dialect dictionaries. Key annotation features include:
+The treebank follows the UD annotation guidelines established for UD_Greek-GUD, complemented by grammatical descriptions and dialect dictionaries. Key annotation features include:
 
 ### Tokenization
 
