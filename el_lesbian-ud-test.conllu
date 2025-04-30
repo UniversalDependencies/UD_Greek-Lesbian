@@ -3899,9 +3899,9 @@
 8	αλήθεια	αλήθεια	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 9	,	,	PUNCT	_	_	16	punct	_	_
 10	μα	μα	CCONJ	_	_	16	cc	_	_
-11	μα	μα	INTJ	_	ExtPos=INTJ	16	discourse	_	_
-12	τ’ν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	fixed	_	_
-13	Παναγιά	Παναγιά	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	11	fixed	_	_
+11	μα	μα	INTJ	_	_	16	discourse	_	_
+12	τ’ν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	flat	_	_
+13	Παναγιά	Παναγιά	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	11	flat	_	_
 14	δεν	δεν	PART	_	Polarity=Neg	16	advmod	_	_
 15	του	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
 16	διαβουλεύκα	διαβουλεύγουμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	8	conj	_	_
