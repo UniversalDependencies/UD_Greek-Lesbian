@@ -1,0 +1,69 @@
+# sent_id = tsi-sta-thka-mas__1
+# text = Τι να κάνου βρε μάνα ;
+# text_el = Τι να κάνω, βρε μάνα;
+1	Τι	τι	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+2	να	να	AUX	_	_	3	aux	_	_
+3	κάνου	κάνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	0	root	_	_
+4	βρε	βρε	INTJ	_	_	5	discourse	_	_
+5	μάνα	μάνα	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	3	vocative	_	_
+6	;	;	PUNCT	_	_	3	punct	_	_
+
+# sent_id = tsi-sta-thka-mas__2
+# text = Θα πάρ’ καλέ μάνα , άμα τιλιώσ’ τ’ αγρουτικό τ’ !
+# text_el = Θα πάρει, καλέ μάνα, όταν τελειώσει το αγροτικό του!
+1	Θα	θα	AUX	_	Tense=Fut	2	aux	_	_
+2	πάρ’	παίρνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+3	καλέ	καλέ	INTJ	_	_	4	discourse	_	_
+4	μάνα	μάνα	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	2	vocative	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	άμα	άμα	SCONJ	_	_	7	mark	_	_
+7	τιλιώσ’	τιλιώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	advcl	_	_
+8	τ’	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	αγρουτικό	αγρουτικό	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+10	τ’	μ’	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod	_	_
+11	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tsi-sta-thka-mas__3
+# text = Μ’ έφτουν τουν γιο τ’ς Ρουζαλίας πήγις τσι τάμπλιξις ;
+# text_el = Με αυτόν τον γιο της Ροζαλίας πήγες και τα έμπλεξες;
+1	Μ’	με	ADP	_	_	4	case	_	_
+2	έφτουν	έφτους	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+3	τουν	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	γιο	γιος	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+5	τ’ς	η	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Ρουζαλίας	Ρουζαλία	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	πήγις	π’γαίνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	τσι	τσι	CCONJ	_	_	10	cc	_	_
+9-10	τάμπλιξις	_	_	_	_	_	_	_	_
+9	τά	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs|Typo=Yes	10	obj	_	CorrectForm=τα
+10	μπλιξις	μπλέκου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+11	;	;	PUNCT	_	_	7	punct	_	_
+
+# sent_id = tsi-sta-thka-mas__4
+# text = Τώρα μπίτ’σι η δ’λιά !
+# text_el = Τώρα τέλειωσε η δουλειά.
+1	Τώρα	τώρα	ADV	_	_	2	advmod	_	_
+2	μπίτ’σι	μπιτίζου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	δ’λιά	δ’λιά	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+5	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = tsi-sta-thka-mas__5
+# text = Τί ένι μαγευτήρας βρε κόρ’ ;
+# text_el = Τι είναι «μαγευτήρας» (παρετυμολογία του «μαιευτήρας»), βρε κόρη;
+1	Τί	τί	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int|Typo=Yes	0	root	_	CorrectForm=Τι
+2	ένι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	cop	_	_
+3	μαγευτήρας	μαγευτήρας	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	βρε	βρε	INTJ	_	_	5	discourse	_	_
+5	κόρ’	κόρ’	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	1	vocative	_	_
+6	;	;	PUNCT	_	_	1	punct	_	_
+
+# sent_id = tsi-sta-thka-mas__6
+# text = Εμ ιγώ μ’λώ καλά .
+# text_el = Εμ, εγώ μιλώ καλά.
+1	Εμ	εμ	INTJ	_	_	3	discourse	_	_
+2	ιγώ	ιγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	μ’λώ	μ’λώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	καλά	καλά	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
