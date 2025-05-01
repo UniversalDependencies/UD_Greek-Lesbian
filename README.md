@@ -1,6 +1,6 @@
 # Summary
 
-A Universal Dependencies treebank of 270 manually annotated sentences for the Northern Modern Greek dialect of the island of Lesbos.
+A Universal Dependencies treebank for the Northern Modern Greek dialect of the island of Lesbos.
 
 ## Introduction
 
