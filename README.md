@@ -1,6 +1,6 @@
 # Summary
 
-A treebank for the Northern Modern Greek dialect of the island of Lesbos.
+A treebank.
 
 ## Introduction
 
