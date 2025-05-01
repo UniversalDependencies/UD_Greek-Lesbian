@@ -2,7 +2,7 @@
 
 A Universal Dependencies (UD) treebank for the dialect of Lesbos, a low-resource living Northern variety of Modern Greek. The treebank currently contains 270 sentences with manual annotations following the Universal Dependencies framework, representing the first UD treebank for a Northern Modern Greek dialect.
 
-## Introduction
+# Introduction
 
 The Lesbos dialect belongs to the Northern Modern Greek dialect group, characterized by distinctive phonological features collectively known as "Northern vocalism." These features include:
 
@@ -66,18 +66,18 @@ The corpus draws from six main sources representing different text types and dia
 
 * Tsokarou-Mitsioni, E. (2019). Prosfygiá [Refugeehood], first edition. D. Doukas & Sia O.V.E.E.
 
-## Statistics
+# Statistics
 
 * Sentences: 270
 
 * Tokens: 3,603
 
 
-## Acknowledgments
+# Acknowledgments
 
 This work has been carried out within the Archimedes Research Unit of the Athena Research Center, Greece. It has been partially supported by project MIS 5154714 of the National Recovery and Resilience Plan Greece 2.0, funded by the European Union under the NextGenerationEU Program. It also received support from the CA21167 COST action UniDive, funded by COST (European Cooperation in Science and Technology).
 
-## References
+# References
 
 * TBA
 
