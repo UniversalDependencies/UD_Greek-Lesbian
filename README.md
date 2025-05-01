@@ -93,7 +93,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 Data available since: UD v2.16
 License: CC BY-SA 4.0
 Includes text: yes
-Genre:  "grammar-examples":"magic",  "spoken":"comment-o",  "fiction":"book"
+Genre:  grammar-examples spoken fiction
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
