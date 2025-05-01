@@ -1,6 +1,6 @@
 # Summary
 
-A Universal Dependencies (UD) treebank for the dialect of Lesbos, a low-resource living Northern variety of Modern Greek. The treebank currently contains 270 sentences with manual annotations following the Universal Dependencies framework, representing the first UD treebank for a Northern Modern Greek dialect.
+A Universal Dependencies treebank of 270 manually annotated sentences for the Northern Modern Greek dialect of the island of Lesbos.
 
 ## Introduction
 
