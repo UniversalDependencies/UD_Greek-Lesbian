@@ -60,7 +60,7 @@ The corpus draws from six main sources representing different text types and dia
 
 ### Contemporary Lesbian Literature
 
-* Tsokarou-Mitsioni, E. (1998). Palies Istories ap tn Agiasiou [Old Stories from Agiasio], 2nd edition. Private Edition, Mytilene.
+* Tsokarou-Mitsioni, E. (1998). Palies Istories ap tn Agiasiou [Old Stories from Agiaso], 2nd edition. Private Edition, Mytilene.
 
 * Anagnostou, V. T. (2014). Tsi sta th'ka mas: Komodia sta k'stariot'ka [Tsi sta th'ka mas: Comedy in the K'stariot'ka Dialect], first edition. Estia Technon Skoutarou "T'Apono to Scholio".
 
