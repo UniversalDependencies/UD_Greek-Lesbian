@@ -40,11 +40,10 @@ The treebank follows the UD annotation guidelines established for UD_Greek-GUD, 
 
 ### Special Annotations
 
-* Voicing and euphonic annotations in the MISC column using MSeg|MGloss format to document these phenomena explicitly
-
-* Orthographic standardization integrated with annotations, preserving original dialectal forms in the FORM column while providing standardized forms in the MISC column
-
-* Parallel translations of each sentence in SMG to facilitate comparative research
+* Voicing and euphonic annotations appear in the `MISC` column using the `MSeg|MGloss` format to explicitly document these phenomena.
+* Orthographic standardization is integrated with annotations, preserving original dialectal forms in the `FORM` column while providing standardized forms in `MISC`.
+* Parallel translations of each sentence in SMG facilitate comparative research.
+* Metadata fields such as `sent_id` and `source` identify whether a sentence originates from written or oral data.
 
 ## Data Sources
 
@@ -66,11 +65,17 @@ The corpus draws from six main sources representing different text types and dia
 
 * Tsokarou-Mitsioni, E. (2019). Prosfygiá [Refugeehood], first edition. D. Doukas & Sia O.V.E.E.
 
+### Oral Corpus (Field Research 2023–2024)
+
+In addition to written sources, the dataset includes **oral sentences transcribed from recordings collected during fieldwork conducted across multiple villages of Lesbos between 2023 and 2024**.  
+These recordings capture speakers of different ages and local varieties, reflecting the living use and intra-island variation of the dialect.
+
+
 # Statistics
 
-* Sentences: 270
+* Sentences: 540
 
-* Tokens: 3,603
+* Tokens: 6,466
 
 
 # Acknowledgments
