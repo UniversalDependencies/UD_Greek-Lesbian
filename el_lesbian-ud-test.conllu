@@ -7970,7 +7970,7 @@
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	εν	δεν	PART	_	Polarity=Neg	5	advmod	_	_
 5	είχε	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
-6	τσαι	τσι	DET	_	_	7	det	_	_
+6	τσαι	τσι	CCONJ	_	_	7	cc	_	_
 7	νερά	νιρό	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	όπως	όπους	ADV	_	PronType=Rel	10	advmod	_	_
