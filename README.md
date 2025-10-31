@@ -79,7 +79,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 
 # References
 
-* TBA
+* Stavros Bompolas, Stella Markantonatou, Angela Ralli, and Antonios Anastasopoulos. 2025. Crossing Dialectal Boundaries: Building a Treebank for the Dialect of Lesbos through Knowledge Transfer from Standard Modern Greek. In Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025), pages 39–51, Ljubljana, Slovenia. Association for Computational Linguistics.
 
 
 # Changelog
