@@ -392,7 +392,7 @@
 13	βρει	βρίσκου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 14	τ’	η	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 15	Αγιού	άγιους	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	16	amod	_	_
-16	Βασ’λειού	Βασίλειους	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	13	obj	_	_
+16	Βασ’λειού	Βασίλειους	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	13	nsubj	_	_
 17	!	!	PUNCT	_	_	1	punct	_	_
 
 # sent_id = written_corpus_22
@@ -1292,7 +1292,7 @@
 4	πού	πού	ADV	_	PronType=Int	6	advmod	_	_
 5	να	να	AUX	_	_	6	aux	_	_
 6	τσμοιθεί	τσμάμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-7	γιου	ου	DET	_	Case=Nom|Gender=Masc|Number=Sing	8	det	_	MGloss=euphonic-the|MSeg=γι-ου
+7	γιου	ου	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	MGloss=euphonic-the|MSeg=γι-ου
 8	Περικλής	Περικλής	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	λογιάζει	λουγιάζου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	_
@@ -2345,7 +2345,7 @@
 11-12	πούταν	_	_	_	_	_	_	_	_
 11	πού	που	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel|Typo=Yes	15	nsubj	_	CorrectForm=που
 12	ταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	cop	_	_
-13	γη	η	DET	_	Case=Nom|Gender=Fem|Number=Sing	15	det	_	MGloss=euphonic-the|MSeg=γ-η
+13	γη	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	MGloss=euphonic-the|MSeg=γ-η
 14	πιο	πιο	ADV	_	Degree=Cmp	15	advmod	_	_
 15	μιγάλ	μιγάλους	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	10	acl:relcl	_	_
 16	.	.	PUNCT	_	_	8	punct	_	_
@@ -2354,7 +2354,7 @@
 # source = Tsokarou-Mitsioni, E. (2019). Prosfygiá [Refugeehood], first edition. D. Doukas & Sia O.V.E.E.
 # text = Γη Πουλιουξέν ήξιρειντα ούλα έγιουτα ίκγει ντα π’ του Μολ ( κουμπγιούτερ ) τσι απ’ φτον έμαθει ένα σουρό πράματα .
 # text_el = Η Πολυξένη τα ήξερε όλα αυτά. Τα άκουγε από το Μολ (κομπιούτερ) και από αυτόν έμαθε ένα σωρό πράγματα.
-1	Γη	η	DET	_	Case=Nom|Gender=Fem|Number=Sing	2	det	_	MGloss=euphonic-the|MSeg=γ-η
+1	Γη	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	MGloss=euphonic-the|MSeg=γ-η
 2	Πουλιουξέν	Πουλιουξέν	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 3-4	ήξιρειντα	_	_	_	_	_	_	_	_
 3	ήξιρει	ξέρου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin|Voice=Act	0	root	_	CorrectForm=ήξιρι
@@ -2745,7 +2745,7 @@
 12	τ’	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13-14	βρακουζώνς	_	_	_	_	_	_	_	_
 13	βρακουζών	βρακουζών	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	parataxis	_	_
-14	ς	μ	PRON	_	Case=Acc|Gender=Fem|Number=Sing	13	nmod	_	CorrectForm=σ’
+14	ς	μ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	13	nmod	_	CorrectForm=σ’
 15	σφιχτά	σφιχτά	ADV	_	_	13	orphan	_	_
 16	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -3590,7 +3590,7 @@
 5	λιφτά	λιφτό	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	_
 6	θα	θα	AUX	_	Tense=Fut	7	aux	_	_
 7	γυρίσ’	γυρίζου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	ccomp	_	_
-8	γη	η	DET	_	Case=Nom|Gender=Fem|Number=Sing	9	det	_	MGloss=euphonic-the|MSeg=γ-η
+8	γη	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	MGloss=euphonic-the|MSeg=γ-η
 9	κόρ’	κόρ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
 10	ιμ	μ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod	_	MGloss=euphonic-my|MSeg=ι-μ
 11	,	,	PUNCT	_	_	12	punct	_	_
