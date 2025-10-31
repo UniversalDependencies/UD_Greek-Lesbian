@@ -3,7 +3,7 @@
 # text = Φτη θα νήνταν ίσιαμι 50 χρουνό γη κατσίκα .
 # text_el = Αυτή θα ήταν ίσα με 50 χρονών η κατσίκα.
 1	Φτη	εύτους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	dislocated	_	_
-2	θα	θα	AUX	_	ExtPos=AUX|Tense=Fut	8	aux	_	_
+2	θα	θα	AUX	_	Tense=Fut	8	aux	_	_
 3-4	νήνταν	_	_	_	_	_	_	_	_
 3	ν	να	AUX	_	_	2	fixed	_	_
 4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_
@@ -435,7 +435,7 @@
 20-21	θκάς	_	_	_	_	_	_	_	_
 20	θκά	δκός	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	11	conj	_	_
 21	ς	μ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	20	nmod	_	_
-22	θα	θα	AUX	_	ExtPos=AUX|Tense=Fut	20	aux	_	_
+22	θα	θα	AUX	_	Tense=Fut	20	aux	_	_
 23-24	νείνη	_	_	_	_	_	_	_	_
 23	ν	να	AUX	_	_	22	fixed	_	_
 24	είνη	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Pass	20	cop	_	CorrectForm=είνι
@@ -1804,7 +1804,7 @@
 4	πριν	πριν	ADV	_	ExtPos=ADP	6	case	_	_
 5	απ’	απού	ADP	_	_	4	fixed	_	_
 6	νακλσησιά	νακκλησιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Typo=Yes	9	obl	_	CorrectForm=νακκλησιά
-7	θα	θα	AUX	_	ExtPos=AUX|Tense=Fut	9	aux	_	_
+7	θα	θα	AUX	_	Tense=Fut	9	aux	_	_
 8-9	νανοίξειν	_	_	_	_	_	_	_	_
 8	ν	να	AUX	_	_	7	fixed	_	_
 9	ανοίξειν	ανοίγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Typo=Yes|VerbForm=Fin|Voice=Act	0	root	_	CorrectForm=ανοίξιν
@@ -3020,7 +3020,7 @@
 21-22	τάχουμι	_	_	_	_	_	_	_	_
 21	τά	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs|Typo=Yes	22	obj	_	CorrectForm=τα
 22	χουμι	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
-23	θα	θα	AUX	_	ExtPos=AUX|Tense=Fut	25	aux	_	_
+23	θα	θα	AUX	_	Tense=Fut	25	aux	_	_
 24-25	νέρτ	_	_	_	_	_	_	_	_
 24	ν	να	AUX	_	_	23	fixed	_	_
 25	έρτ	έρχουμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
@@ -3286,7 +3286,7 @@
 6	έχουμι	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	ιλιές	ιλιά	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	_
 8	τσι	τσι	CCONJ	_	_	11	cc	_	_
-9	θα	θα	AUX	_	ExtPos=AUX|Tense=Fut	11	aux	_	_
+9	θα	θα	AUX	_	Tense=Fut	11	aux	_	_
 10	ν	να	AUX	_	_	9	fixed	_	_
 11	έχουμι	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
 12	μιγάλις	μιγάλους	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	13	amod	_	_
@@ -3845,7 +3845,7 @@
 2	γιε	γιος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	_
 3	μ	μ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
 4	μεις	ιγώ	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
-5	θα	θα	AUX	_	ExtPos=AUX|Tense=Fut	7	aux	_	_
+5	θα	θα	AUX	_	Tense=Fut	7	aux	_	_
 6-7	ναπουμείνουμι	_	_	_	_	_	_	_	_
 6	ν	να	AUX	_	_	5	fixed	_	_
 7	απουμείνουμι	απουμένου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -4215,7 +4215,7 @@
 # source = Papanis, D. and Papanis, G. D. (2004). Lexiko tou Agiasotikou Glosikou Idiomatos [Dictionary of the Agiasos Dialect], 3rd improved and expanded edition. Private edition, Mytilene.
 # text = Θα ν’ έρτ’ς στου κυνήγ’ ;
 # text_el = Θα έρθεις στο κυνήγι;
-1	Θα	θα	AUX	_	ExtPos=AUX|Tense=Fut	3	aux	_	_
+1	Θα	θα	AUX	_	Tense=Fut	3	aux	_	_
 2	ν’	να	AUX	_	_	1	fixed	_	_
 3	έρτ’ς	έρχουμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 4-5	στου	_	_	_	_	_	_	_	_
@@ -5807,7 +5807,7 @@
 # source = Recording (Date:2023-2024, Location:Chidira, Gender:Female)
 # text = Θα να κάνουμ’ του δικαστήριο .
 # text_el = Θα κάνουμε το δικαστήριο.
-1	Θα	θα	AUX	_	ExtPos=AUX|Tense=Fut	3	aux	_	_
+1	Θα	θα	AUX	_	Tense=Fut	3	aux	_	_
 2	να	να	AUX	_	_	1	fixed	_	_
 3	κάνουμ’	κάνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	_	_
 4	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
@@ -6573,7 +6573,7 @@
 2	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obj	_	_
 3	σε	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
 4	λέου	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
-5	θα	θα	AUX	_	ExtPos=AUX|Tense=Fut	7	aux	_	_
+5	θα	θα	AUX	_	Tense=Fut	7	aux	_	_
 6	ν’	να	AUX	_	_	5	fixed	_	_
 7	εγίντσε	γίνουμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 8	άρα	άρα	CCONJ	_	_	7	cc	_	_
