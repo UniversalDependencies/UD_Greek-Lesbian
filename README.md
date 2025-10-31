@@ -91,6 +91,10 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 
 * 2024-11-15 v2.15
   * Initial release in Universal Dependencies.
+* 2025-10-31 v2.16
+  * Added oral corpus component (field recordings 2023–2024).
+  * Added metadata fields (`sent_id`, `source`) for all sentences.
+  * Minor updates and metadata refinements for UD release consistency.
 
 
 <pre>
