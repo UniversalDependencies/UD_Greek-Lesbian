@@ -3703,7 +3703,7 @@
 1	Ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	_
 2	πι	απί	ADP	_	_	3	case	_	_
 3	καρσί	καρσί	ADV	_	_	0	root	_	_
-4	κατ’	κάτ	DET	_	Typo=Yes	5	det	_	CorrectForm=κάτ’
+4	κατ’	κάτ	DET	PronType=Ind	Typo=Yes	5	det	_	CorrectForm=κάτ’
 5	παμπόρια	παμπόρ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	nsubj	_	_
 6	μιγάλα	μιγάλους	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	5	amod	_	_
 7	γη	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art|Typo=Yes	8	det	_	CorrectForm=γοι|MGloss=euphonic-the|MSeg=γ-οι
@@ -4345,14 +4345,14 @@
 # text_el = Άμα βράδιασε, η κουτσουλιά (έπιασε να διαλαλεί: «Κύριοι, ο Οδυσσέας πουλάει 100 κεφάλια κατσίκες προς 200 φράγκα τη μία. Όποιος ενδιαφέρεται ας πάει στον καφενέ της κωλο-Μαρίας για να βρει τον Οδησσέα να τα κανονίσει».
 1	Άμανι	άμα	SCONJ	_	_	2	mark	_	_
 2	βράδιασει	βραδιάζου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Typo=Yes|VerbForm=Fin|Voice=Act	5	advcl	_	CorrectForm=βράδιασι
-3	γη	η	DET	_	Case=Nom|Gender=Fem|Number=Sing	4	det	_	MGloss=euphonic-the|MSeg=γ-η
+3	γη	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	MGloss=euphonic-the|MSeg=γ-η
 4	Κουτσλιά	Κουτσλιά	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 5	πιάσει	πιάνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Typo=Yes|VerbForm=Fin|Voice=Act	0	root	_	CorrectForm=πιάσι
 6	να	να	SCONJ	_	_	7	mark	_	_
 7	διαλαγεί	διαλαγώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	xcomp	_	_
 8	«	«	PUNCT	_	_	12	punct	_	_
 9	Κύριοι	κύριους	ADJ	_	Case=Voc|Gender=Masc|Number=Plur	12	vocative	_	_
-10	γιου	ου	DET	_	Case=Nom|Gender=Masc|Number=Sing	11	det	_	_
+10	γιου	ου	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	Δησέφ	Δησέφς	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	12	nsubj	_	CorrectCase=Nom|CorrectForm=Δησέφς
 12	πλει	πλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Act	7	ccomp	_	CorrectForm=πλεί
 13	100	100	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	14	nummod	_	_
@@ -4362,7 +4362,7 @@
 17	200	200	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	18	nummod	_	_
 18	φράγκα	φράγκα	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	12	obl	_	_
 19	τη	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-20	μια	ένας	NUM	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Card	12	obj	_	_
+20	μια	ένας	NUM	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Card	18	orphan	_	_
 21	,	,	PUNCT	_	_	25	punct	_	_
 22	όποιους	όποιους	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	25	nsubj	_	_
 23	ενδιαφέριτι	ινδιαφέρου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	22	acl:relcl	_	_
@@ -4645,7 +4645,7 @@
 # text = Γέμ’σι γη αγουρά απί ντόπγιους τσι ξένους κουλουξυρ’σμένους .
 # text_el = Γέμισε η αγορά από ντόπιους και ξένους κωλοξυρισμένους (= αναφέρεται σε άτομα που τολμούσαν να ξυρίσουν, λ.χ., το μουστάκι).
 1	Γέμ’σι	γεμίζου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	γη	η	DET	_	Case=Nom|Gender=Fem|Number=Sing	3	det	_	MGloss=euphonic-the|MSeg=γ-η
+2	γη	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	MGloss=euphonic-the|MSeg=γ-η
 3	αγουρά	αγουρά	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
 4	απί	απί	ADP	_	_	8	case	_	_
 5	ντόπγιους	ντόπιους	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	8	amod	_	_
@@ -7093,7 +7093,7 @@
 5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_
 6-7	σκη	_	_	_	_	_	_	_	_
 6	σ	σι	ADP	_	_	8	case	_	_
-7	κη	η	DET	_	Case=Nom|Gender=Fem|Number=Sing	8	det	_	Palatalization=Palatalized
+7	κη	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Palatalization=Palatalized
 8	Αμερική	Αμιρκή	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	acl:relcl	_	_
 9	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -7368,7 +7368,7 @@
 17	το	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_	_
 18	σκολειό	σχουλειό	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	_
 19	μια	ένας	NUM	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Card	20	nummod	_	_
-20	βρύσ’	βρύσ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+20	βρύσ’	βρύσ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	orphan	_	_
 21	,	,	PUNCT	_	_	25	punct	_	_
 22	τσαι	τσι	CCONJ	_	_	25	cc	_	_
 23-24	στο	_	_	_	_	_	_	_	_
@@ -7964,6 +7964,7 @@
 # source = Recording (Date:2023-2024, Location:Chidira, Gender:Female)
 # text = Εν ξέρου , εν είχε τσαι νερά , όπως λέει .
 # text_el = Δεν ξέρω, δεν είχε και νερά, όπως λέει.
+# timestamp = 1751304735589.5742
 1	Εν	δεν	PART	_	Polarity=Neg	2	advmod	_	_
 2	ξέρου	ξέρου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	,	,	PUNCT	_	_	5	punct	_	_
