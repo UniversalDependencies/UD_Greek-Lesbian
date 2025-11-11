@@ -1,6 +1,6 @@
 # Summary
 
-A Universal Dependencies (UD) treebank for the dialect of Lesbos, a low-resource living Northern variety of Modern Greek. The treebank currently contains 270 sentences with manual annotations following the Universal Dependencies framework, representing the first UD treebank for a Northern Modern Greek dialect.
+A Universal Dependencies (UD) treebank for the dialect of Lesbos, a low-resource living Northern variety of Modern Greek. The treebank currently contains 540 sentences with manual annotations following the Universal Dependencies framework, representing the first UD treebank for a Northern Modern Greek dialect.
 
 # Introduction
 
@@ -40,11 +40,10 @@ The treebank follows the UD annotation guidelines established for UD_Greek-GUD, 
 
 ### Special Annotations
 
-* Voicing and euphonic annotations in the MISC column using MSeg|MGloss format to document these phenomena explicitly
-
-* Orthographic standardization integrated with annotations, preserving original dialectal forms in the FORM column while providing standardized forms in the MISC column
-
-* Parallel translations of each sentence in SMG to facilitate comparative research
+* Voicing and euphonic annotations appear in the `MISC` column using the `MSeg|MGloss` format to explicitly document these phenomena.
+* Orthographic standardization is integrated with annotations, preserving original dialectal forms in the `FORM` column while providing standardized forms in `MISC`.
+* Parallel translations of each sentence in SMG facilitate comparative research.
+* Metadata fields such as `sent_id` and `source` identify whether a sentence originates from written or oral data.
 
 ## Data Sources
 
@@ -60,32 +59,42 @@ The corpus draws from six main sources representing different text types and dia
 
 ### Contemporary Lesbian Literature
 
-* Tsokarou-Mitsioni, E. (1998). Palies Istories ap tn Agiasiou [Old Stories from Agiasio], 2nd edition. Private Edition, Mytilene.
+* Tsokarou-Mitsioni, E. (1998). Palies Istories ap tn Agiasiou [Old Stories from Agiaso], 2nd edition. Private Edition, Mytilene.
 
 * Anagnostou, V. T. (2014). Tsi sta th'ka mas: Komodia sta k'stariot'ka [Tsi sta th'ka mas: Comedy in the K'stariot'ka Dialect], first edition. Estia Technon Skoutarou "T'Apono to Scholio".
 
 * Tsokarou-Mitsioni, E. (2019). Prosfygiá [Refugeehood], first edition. D. Doukas & Sia O.V.E.E.
 
+### Oral Corpus (Field Research 2023–2024)
+
+In addition to written sources, the dataset includes **oral sentences transcribed from recordings collected during fieldwork conducted across multiple villages of Lesbos between 2023 and 2024**.  
+These recordings capture speakers of different ages and local varieties, reflecting the living use and intra-island variation of the dialect.
+
+
 # Statistics
 
-* Sentences: 270
+* Sentences: 540
 
-* Tokens: 3,603
+* Tokens: 6,466
 
 
 # Acknowledgments
 
 This work has been carried out within the Archimedes Research Unit of the Athena Research Center, Greece. It has been partially supported by project MIS 5154714 of the National Recovery and Resilience Plan Greece 2.0, funded by the European Union under the NextGenerationEU Program. It also received support from the CA21167 COST action UniDive, funded by COST (European Cooperation in Science and Technology).
 
-# References
+# How to Cite
 
-* TBA
+* Stavros Bompolas, Stella Markantonatou, Angela Ralli, and Antonios Anastasopoulos. 2025. Crossing Dialectal Boundaries: Building a Treebank for the Dialect of Lesbos through Knowledge Transfer from Standard Modern Greek. In Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025), pages 39–51, Ljubljana, Slovenia. Association for Computational Linguistics.
 
 
 # Changelog
 
 * 2024-11-15 v2.15
   * Initial release in Universal Dependencies.
+* 2025-10-31 v2.16
+  * Added oral corpus component (field recordings 2023–2024).
+  * Added metadata fields (`sent_id`, `source`) for all sentences.
+  * Minor updates and metadata refinements for UD release consistency.
 
 
 <pre>
@@ -93,6 +102,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 Data available since: UD v2.16
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre:  grammar-examples spoken fiction
 Lemmas: manual native
 UPOS: manual native
