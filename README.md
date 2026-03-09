@@ -98,7 +98,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
   * Added metadata fields (`sent_id`, `source`) for all sentences.
   * Minor updates and metadata refinements for UD release consistency.
 * 2026-03-09 v2.17
-  * Added dded 85 sentences from written data sourced from Ralli (2017).
+  * Added 85 sentences from written data sourced from Ralli (2017).
   * Updated several lemmas for improved consistency.
   * Added information about phonological intradialectal variants in the MISC column in cases where a common lemma is used for different surface realizations.
   * Updated the annotation of punctuation to ensure consistency across the treebank.
