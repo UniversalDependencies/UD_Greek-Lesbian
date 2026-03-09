@@ -75,7 +75,7 @@ These recordings capture speakers of different ages and local varieties, reflect
 
 # Statistics
 
-* Sentences: 540
+* Sentences: 625
 
 * Tokens: 6,466
 
