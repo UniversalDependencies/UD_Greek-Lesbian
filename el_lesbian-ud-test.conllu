@@ -10154,8 +10154,10 @@
 4	κανείς	κανένας	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
-# sent_id = el_lesbian-ud-test-final-final__540
+# sent_id = oral_corpus_270
+# source = Recording (Date:2023-2024, Location:Pterounta, Gender:Female)
 # text = Πήρες του δρόμου τσ’ ήρθις, θα σε κουμαντάρω γου που θα του πας και τι θα κάνς;
+# text_el = Πήρες τον δρόμο κι ήρθες, θα σε κουμαντάρω εγώ που θα το πας και τι θα κάνεις;
 1	Πήρες	παίρνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	δρόμου	δρόμους	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
