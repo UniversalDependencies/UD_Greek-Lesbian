@@ -4815,7 +4815,7 @@
 17	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_271
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Είνι καμιάν ώρα που πήγαν στου γυαλό γ’ απιταλ’ίδις.
 # text_el = Είναι καμιά ώρα που πήγαν στον γυαλό για πεταλίδες.
 1	Είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	cop	_	_
@@ -4832,7 +4832,7 @@
 11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_272
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Φώναζι, τσίρζι, στου τέλους τέλους πήρι τν απόλια τ.
 # text_el = Φώναζε, τσίριζε, στο τέλος τέλος πήρε τον δρόμο του.
 1	Φώναζι	φουνάζου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -4851,7 +4851,7 @@
 13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_273
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τουν έπιασα του κούτιλου τ κι είν απόπυρους.
 # text_el = Του έπιασα το κούτελό του και είναι χλιαρός.
 1	Τουν	ιγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
@@ -4865,7 +4865,7 @@
 9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_274
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Η γ’-απουμουν’ή έχ’ τσι τα όρια τς.
 # text_el = Η υπομονή έχει και τα όριά της.
 1	Η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -4878,7 +4878,7 @@
 8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_275
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ήνταν τόσου ιρουτιβμένους π ακγόνταν ι γ’-απόχτπους ιτ.
 # text_el = Ήταν τόσο ερωτευμένος που ακουγόταν ο παλμός του.
 1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	_
@@ -4892,7 +4892,7 @@
 9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_276
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τούτουνα τ άλουγου πάγ’ μι καλό αραχμάν’.
 # text_el = Αυτό το άλογο πάει με καλό ρυθμό.
 1	Τούτουνα	τούτους	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	_
@@ -4905,7 +4905,7 @@
 8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_277
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Μι του που τουν είδα, άρναμους μ ήρτι.
 # text_el = Με το που τον είδα, ξαφνιάστηκα.
 1	Μι	μι	ADP	_	ExtPos=SCONJ	5	mark	_	_
@@ -4920,7 +4920,7 @@
 10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_278
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Γιατί παπά μ έν αρχινεύγ’ς να τιλειώσουμι νουρίς να πάμι στς ι-δλειές μας;
 # text_el = Γιατί παπά μου δεν αρχίζεις να τελειώσουμε νωρίς να πάμε στις δουλειές μας;
 1	Γιατί	γιατί	ADV	_	_	5	advmod	_	_
@@ -4941,7 +4941,7 @@
 15	;	;	PUNCT	_	PunctType=Qest	5	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_279
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Πλύνι πλύνι του πκάμσου μ τ ασπρουγάνιασις.
 # text_el = Πλύνε πλύνε το πουκάμισο το ξεθώριασες.
 1	Πλύνι	πλένου	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	compound:redup	_	_
@@ -4954,7 +4954,7 @@
 8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_280
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Του σπίτ θέλ’ να τ ασταρώγ’ς πριν του βάψ.
 # text_el = Το σπίτ θέλει να το περάσεις αστάρι πριν το βάψεις.
 1	Του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
@@ -4969,7 +4969,7 @@
 10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_281
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τί λ’μπίστσις σ αυτόν τουν αχ’λαρά τσι του μπαντρεύτσις;
 # text_el = Τι λιμπίστηκες σε αυτόν με τα μεγάλα χείλη και τον παντρεύτηκες;
 1	Τί	τι	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
@@ -4984,7 +4984,7 @@
 10	;	;	PUNCT	_	PunctType=Qest	2	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_282
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Σχώρησέ μι Παναγιούδα μ, βαρυγκουγκώ μι του μπατέρα μ πού νι κατάκ’τους.
 # text_el = Συγχώρεσέ με, Παναγίτσα μου, βαρυγκομώ με τον πατέρα μου που είναι κατάκοιτος.
 1	Σχώρησέ	σχουρώ	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5003,7 +5003,7 @@
 14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_283
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Έφαγι μια πιτριγιά πά στου τσιφάλ’ ιτ τσ έκανι νά ένα βούζουνα.
 # text_el = Έφαγε μια πετριά πάνω στο κεφάλι του και έκανε «να» ένα καρούμπαλο.
 1	Έφαγι	τρώγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5023,7 +5023,7 @@
 14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_284
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Πουλ’ύ του ζουρμπά μας κάν’ς τσ έ θα τα πάμι καλά.
 # text_el = Πολύ τον νταή μας κάνεις και δεν θα τα πάμε καλά.
 1	Πουλ’ύ	πουλύ	ADV	_	_	5	advmod	_	_
@@ -5040,7 +5040,7 @@
 12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_285
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τα θέρμα π όχ’ σ Θιρμή κάνιν καλό σι πουλλές αρρώστγις.
 # text_el = Οι θέρμες που έχει στη Θερμή κάνουν καλό σε πολλές αρρώστιες.
 1	Τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	_
@@ -5057,7 +5057,7 @@
 12	.	.	PUNCT	_	PunctType=Peri	7	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_286
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Έ θλ’υκών’ καλά τούτην’ η βίδα, άλλ’ θα θέλ’.
 # text_el = Δεν κουμπώνει καλά αυτή η βίδα, άλλη θα θέλει.
 1	Έ	δεν	PART	_	Polarity=Neg	2	advmod	_	_
@@ -5073,7 +5073,7 @@
 11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_287
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Οι θρούμπις είνι καλές αλλά έ βγάζιν πουλ’ύ λάδ.
 # text_el = Οι θρούμπες είναι καλές αλλά δεν βγάζουν πολύ λάδι.
 1	Οι	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
@@ -5088,7 +5088,7 @@
 10	.	.	PUNCT	_	PunctType=Peri	4	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_288
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Εμ, έν-ι καθόνταν καλά, ι κώλους ιτ τουν έτρουγι.
 # text_el = Εμ, δεν καθόταν καλά, ο κώλος του τον έτρωγε.
 1	Εμ	εμ	INTJ	_	_	4	discourse	_	SpaceAfter=No
@@ -5105,7 +5105,7 @@
 12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_289
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ήνταν αβανουκαμένος αμ τα μκράτα τ τσι πέθανι μ αυτό του γκαμό.
 # text_el = Ήταν συκοφαντημένος από τα μικράτα του και πέθανε με αυτόν τον καημό.
 1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	cop	_	_
@@ -5123,7 +5123,7 @@
 13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_290
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Κάθα φουρά που ιγώ τσ αυτός μαλώνουμι για του ποιος θα βγει πρώτους, ιγώ αβαντσέρνου.
 # text_el = Κάθε φορά που εγώ και αυτός μαλώνουμε για το ποιος θα βγει πρώτο, εγώ προηγούμαι.
 1	Κάθα	κάθα	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	2	det	_	_
@@ -5145,7 +5145,7 @@
 17	.	.	PUNCT	_	PunctType=Peri	16	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_291
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Μουρή γρουσούζα, μήδ ιγώ σ αγαντέρνου, μήδι καν’είς άλλους.
 # text_el = Μωρή γρουσούζα, ούτε εγώ σε αντέχω ούτε κανείς άλλος.
 1	Μουρή	μουρός	INTJ	_	Case=Voc|Gender=Fem|Number=Sing	2	discourse	_	_
@@ -5162,7 +5162,7 @@
 12	.	.	PUNCT	_	PunctType=Peri	7	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_292
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τ μέρα π γιουρτάζ ι γ’-Άγιους Ραφαήλ τα κάν’ τ αγιουτκά τ.
 # text_el = Τη μέρα που γιορτάζει ο Άγιος Ραφαήλ τα κάνει τα θαύματά του.
 1	Τ	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -5180,7 +5180,7 @@
 13	.	.	PUNCT	_	PunctType=Peri	9	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_293
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τ άγγρυλών’ς έδγιτς τα μάτια σ;
 # text_el = Τι γουρλώνεις έτσι τα μάτια σου;
 1	Τ	τι	ADV	_	PronType=Int	2	advmod	_	_
@@ -5192,7 +5192,7 @@
 7	;	;	PUNCT	_	PunctType=Qest	2	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_294
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Κάθουντουν σν ακρουθαλασσά τς Θιρμής τσ αγνάντζι καρσί του Μουσχουν’ήσ.
 # text_el = Καθόταν στην ακροθαλασσιά της Θέρμης και αγνάντευε απέναντι το Μοσχονήσι.
 1	Κάθουντουν	κάθουμι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -5210,7 +5210,7 @@
 12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_295
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Φτάν’ πια βρε αγουρουφά!
 # text_el = Φτάνει πια, βρε αγουροφαγά!
 1	Φτάν’	φτάνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5220,7 +5220,7 @@
 5	!	!	PUNCT	_	PunctType=Excl	1	punct	_	PunctType=Excl
 
 # sent_id = written_corpus_296
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Αγριγιμό είχ η γ’-ιπιστράτιφσ του ιβδουμίντα τέσσιρα.
 # text_el = Αγριάδα είχε η επιστράτευση του εβδομήντα τέσσερα.
 1	Αγριγιμό	αγριγιμό2	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
@@ -5233,7 +5233,7 @@
 8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_297
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Έν αδειάζου μουρέλλ’ ιμ νά ρτου να σι δω σήμιρα.
 # text_el = Δεν αδειάζω, παιδάκι μου, να έρθω να σε δω σήμερα.
 1	Έν	δεν	PART	_	Polarity=Neg	2	advmod	_	_
@@ -5249,7 +5249,7 @@
 11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_298
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Μ ούλις τούτις τς φασαρίγ’ις άφσα του σπίτ αδιάρμστου.
 # text_el = Με όλες αυτές τις φασαρίες άφησα το σπίτι ασυγύριστο.
 1	Μ	μι	ADP	_	_	5	case	_	_
@@ -5264,7 +5264,7 @@
 10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_299
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Άθριπους είνι τούτουνας, γιά ζο;
 # text_el = Άνθρωπος είναι αυτός ή ζώο;
 1	Άθριπους	άνθρουπους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -5276,7 +5276,7 @@
 7	;	;	PUNCT	_	PunctType=Qest	1	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_300
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Όξου αμ ν Αγιά Βαρβάρα καθόνταν δυο ζτγιάν’ τσι γυρεύγαν αλιμουσύν’.
 # text_el = Έξω από την Αγιά Βαρβάρα κάθοντα δύο ζητιάνοι και γύρευαν ελεημοσύνη.
 1	Όξου	όξου	ADV	_	_	5	case	_	_
@@ -5293,7 +5293,7 @@
 12	.	.	PUNCT	_	PunctType=Peri	6	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_301
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Έχου μνιαν αλλουγυρίστρα στου δαχτύλ’ ιμ τσι μι πουν’εί.
 # text_el = Έχω ένα οίδημα στο δάχτυλό μου και με πονάει.
 1	Έχου	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5310,7 +5310,7 @@
 11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_302
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Αμόνοιασι καλά μι του τφέκ’ του πλ’ί, αλλά έ ντου πέτυχι.
 # text_el = Σημάδεψε καλά με το τουφέκι το πουλό αλλά δεν το πέτυχε.
 1	Αμόνοιασι	αμουνοιάζου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5328,7 +5328,7 @@
 13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_303
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τα προυτνά τα χρόνια τ αναγκαίου τού χαν όξου σν αυλ’ή.
 # text_el = Τα πρωτινά τα χρόνια το αποχωρητήριο το είχαν έξω στην αυλή.
 1	Τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
@@ -5347,7 +5347,7 @@
 13	.	.	PUNCT	_	PunctType=Peri	8	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_304
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Απί τότι π ιγχείρσι τα γόνατα τ ι πάππους πουρπατεί ανακούρκουδα.
 # text_el = Από τότε που εγχείρισε τα γόνατά του ο παππούς περπατεί με λυγισμένα τα γόνατα.
 1	Απί	απού	ADP	_	_	2	case	_	_
@@ -5364,7 +5364,7 @@
 12	.	.	PUNCT	_	PunctType=Peri	10	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_305
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Έπισι του μουρό κάτου τσι γύρσα άναυλα αμ τ Μυτιλ’ήν’.
 # text_el = Έπεσε το μωρό κάτω και γύρισα γρήγορα από τη Μυτιλήνη.
 1	Έπισι	πέφτου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5380,7 +5380,7 @@
 11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_306
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τί ανιβρουχιά είν αυτήν’ πό χουμι φέτους;
 # text_el = Τι αναβροχιά είναι αυτή που έχουμε φέτος;
 1	Τί	τι	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	2	det	_	_
@@ -5393,7 +5393,7 @@
 8	;	;	PUNCT	_	PunctType=Qest	2	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_307
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Άν’φτους, μι ντ τζίμπλα στου μάτ, μ έπιασι ντ γκουβέντα
 # text_el = Άνιφτος, με την τσίμπλα στο μάτι, μου έπιασε την κουβέντα.
 1	Άν’φτους	άνφτους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	11	advcl	_	SpaceAfter=No
@@ -5412,7 +5412,7 @@
 13	γκουβέντα	κουβέντα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	Voicing=Voiced
 
 # sent_id = written_corpus_308
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Έκουψα καμπόσα βρούλα και πέρασα αρμαθιά τα ψάρια πό πιασα σήμερα.
 # text_el = Έκοψα κάμποσα βούρλα και πέρασα αρμαθιά τα ψάρια που έπιασα σήμερα.
 1	Έκουψα	κόβου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5429,7 +5429,7 @@
 12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_309
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Βρε μουρέλλ’ ιμ έδιου που σκότουσις ντ βρουμούσα βρώμσι ούλ’ η κάμαρα.
 # text_el = Βρε παιδάκι μου, εδώ που σκότωσε τη βρωμούσα βρώμισε όλη η κάμαρα.
 1	Βρε	βρε	INTJ	_	_	2	discourse	_	_
@@ -5447,7 +5447,7 @@
 13	.	.	PUNCT	_	PunctType=Peri	9	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_310
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τουν λ’μπιζόντιν ούλις οι κουπιλούδις τς γειτουνιάς.
 # text_el = Τον λιμπίζονταν όλες οι κοπέλες της γειτονιάς.
 1	Τουν	ιγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
@@ -5460,7 +5460,7 @@
 8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_311
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τουν έκανι ένα δν’είσμου πού νταν ούλου θκό τ.
 # text_el = Του έκανε ένα κορόιδεμα που ήταν όλο δικό του.
 1	Τουν	ιγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
@@ -5475,7 +5475,7 @@
 10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_312
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ι καπιτάν Ν’κόλας βάστα μι τό να χέρ του δοιάκ’ κι μι τ άλλου του κουμπουλόγ’.
 # text_el = Ο καπετάν-Νικόλας βαστούσε με το ένα χέρι το τιμόνι και με το άλλο το κομπολόι.
 1	Ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -5497,7 +5497,7 @@
 17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_313
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Εύα, να πεθάνιν οι γ’-ουχτροί μας!
 # text_el = Εύα, να πεθάνουν οι εχθροί μας!
 1	Εύα	Εύα	PROPN	_	Case=Voc|Gender=Fem|Number=Sing	4	vocative	_	SpaceAfter=No
@@ -5510,7 +5510,7 @@
 8	!	!	PUNCT	_	PunctType=Excl	4	punct	_	PunctType=Excl
 
 # sent_id = written_corpus_314
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τούτου του μουρό ζαμπούν’κου έ σι φαίνιτι;
 # text_el = Αυτό το μωρό ασθενικό δεν σου φαίνεται;
 1	Τούτου	τούτους	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	_
@@ -5523,7 +5523,7 @@
 8	;	;	PUNCT	_	PunctType=Qest	7	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_315
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Έ μπουρώ πλια να του γκάνου ζάπ.
 # text_el = Δεν μπορώ πια να τον κάνω ζάφτι.
 1	Έ	δeν	PART	_	Polarity=Neg	2	advmod	_	_
@@ -5536,7 +5536,7 @@
 8	.	.	PUNCT	_	PunctType=Peri	2	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_316
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Κάνι ένα χουν’ί μ ιφημιρίδα τσι γέμστου ζαπλαπούδις.
 # text_el = Κάνε ένα χωνί με την εφημερίδα και γέμισέ το στραγάλια ανακατεμένα με σταφίδες.
 1	Κάνι	κάνου	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5552,7 +5552,7 @@
 10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_317
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Α πάμι να παίξουμι καλ’φτό στου γυαλό;
 # text_el = Θα πάμε να παίξουμε κρυφτό στον γυαλό;
 1	Α	θα	AUX	_	Tense=Fut	2	aux	_	_
@@ -5567,7 +5567,7 @@
 9	;	;	PUNCT	_	PunctType=Qest	2	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_318
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Κατέβκα μέ στου κάμα σν αγουρά τσι κάητσ η κουρφή μ
 # text_el = Κατέβηκα μέσα στον καύσωνα στην αγορά και κάηκε το κεφάλι μου.
 1	Κατέβκα	κατιβαίνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -5587,7 +5587,7 @@
 13	μ	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod	_	_
 
 # sent_id = written_corpus_319
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Του μάτ ιμ είνι κότσνου, μι φαίνιτι πους θα ν έχου κατιβασά.
 # text_el = Το μάτι μου είναι κόκκινο. Μου φαίνεται πως θα έχω κριθαράκι.
 1	Του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
@@ -5606,7 +5606,7 @@
 14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_320
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τίλουγια μπουρείς κι κάν’ς μάθημα μι τόσοιν’ κατμάδις πό χ’ς σ ντάξ;
 # text_el = Πώς μπορείς και κάνεις μάθημα με τόσους σκράπες στην τάξη;
 1	Τίλουγια	τίλουγια	ADV	_	PronType=Int	2	advmod	_	_
@@ -5624,7 +5624,7 @@
 13	;	;	PUNCT	_	PunctType=Qest	2	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_321
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ήβγαν τα κατμέρια, πάμι στου χουράφ να μαζέψουμι καμπόσα;
 # text_el = Βγήκαν τα ζουμπούλια. Πάμε στο χωράφι να μαζέψουμε καμπόσα;
 1	Ήβγαν	βγαίνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5642,7 +5642,7 @@
 12	;	;	PUNCT	_	PunctType=Qest	1	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_322
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Βάλι του κουλντιμίρ πίσου αμ ντ μπόρτα να μή μπούν οι γ’-ατζγγάν’.
 # text_el = Βάλε το μάνταλο πίσω από την πόρτα να μην μπουν οι τσιγγάνοι.
 1	Βάλι	βάζου	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5660,7 +5660,7 @@
 13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_323
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ήνταν πού νταν κουλουκάτσ τουν απουτέλειουσι τσ η γ’-αρρώστια.
 # text_el = Ήταν που ήταν μικρόσωμος, τον αποτέλειωσε η αρρώστια.
 1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	cop	_	_
@@ -5675,7 +5675,7 @@
 10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_324
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Η τράπιζα τουν έδουσι κρέντιτου.
 # text_el = Η τράπεζα του έδωσε πίστωση.
 1	Η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -5686,7 +5686,7 @@
 6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_325
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Άμα πήγα στου Μουσχουν’ήσ κουντά σ ούλα τ άλλα μ αρέσαν κι τα κρηνιλάκια.
 # text_el = Όταν πήγα στο Μοσχονήσι, κοντά σε όλα τα άλλα, μου αρέσαν και οι βρύσες.
 1	Άμα	άμα	SCONJ	_	_	2	mark	_	_
@@ -5708,7 +5708,7 @@
 16	.	.	PUNCT	_	PunctType=Peri	12	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_326
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ι γιατρός τ είπι να βάζ κρυγιόμπλαστρα για μια βδουμάδα.
 # text_el = Η γιατρός του είπε να βάζει κρύα έμπλαστρα για μια εβδομάδα.
 1	Ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -5724,7 +5724,7 @@
 11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_327
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τίλουγια θα πάγου να δλέψου στα χουράφια;
 # text_el = Πώς θα πάω να δουλέψω στα χωράφια;
 1	Τίλουγια	τίλουγια	ADV	_	PronType=Int	3	advmod	_	_
@@ -5739,7 +5739,7 @@
 9	;	;	PUNCT	_	PunctType=Qest	3	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_328
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Του μαντάλ’ μή ξιχάγ’ς να βάλ’ς σ μπόρτα πριν τσμηθείς.
 # text_el = Το μάνταλο μην ξεχάσεις να βάλεις στην πόρτα πριν κοιμηθείς.
 1	Του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
@@ -5755,7 +5755,7 @@
 11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_329
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Κουτζάμ μαντάνα γίν’τσις.
 # text_el = Κοτζάμ γυναίκα έγινες.
 1	Κουτζάμ	κουτζάμ	ADJ	_	_	2	amod	_	_
@@ -5764,7 +5764,7 @@
 4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_330
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ποιός θα του βάλ’ απά σ μπαλάντζα να του ζγιάσ;
 # text_el = Ποιος θα το βάλει πάνω στη ζυγαριά να το ζυγίσει;
 1	Ποιός	ποιος	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	4	nsubj	_	_
@@ -5780,7 +5780,7 @@
 11	;	;	PUNCT	_	PunctType=Qest	4	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_331
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Πάνι ν αγουράγ’ς τρεις ακόμα μπαμπακούλις για να μπουρέγ’ς να τιλει’ώγ’ς του τζιλέ που πλέκ’ς.
 # text_el = Πάνε να αγοράσεις τρια ακόμα ματσάκια νήμα για να μπορέσεις να τελειώσεις τον ζιλέ που πλέκεις.
 1	Πάνι	πγαίνου	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5801,7 +5801,7 @@
 16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_332
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Βάλι κουμμάτ σπίρτου απά σι μια μπαμπακούρα κι βάλτου σ μύτ σ να πιράς του κρυγιώμα.
 # text_el = Βάλε λίγο οινόπνευμα πάνω σε ένα βαμβακάκι και βάλ' το στη μύτη σου να περάσει το κρύωμα.
 1	Βάλι	βάζου	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5825,7 +5825,7 @@
 18	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_333
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Άγαρμπους τσι μπρίκους!
 # text_el = Άγαρμπος και κατρουλιάρης!
 1	Άγαρμπους	άγαρμπους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -5834,7 +5834,7 @@
 4	!	!	PUNCT	_	PunctType=Excl	1	punct	_	PunctType=Excl
 
 # sent_id = written_corpus_334
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Να σι πω ένα νιώσμα να δούμι άμα του βρεις.
 # text_el = Να σου πω ένα αίνιγμα να δούμε αν το βρεις.
 1	Να	να	AUX	_	_	3	aux	_	_
@@ -5850,7 +5850,7 @@
 11	.	.	PUNCT	_	PunctType=Peri	7	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_335
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Παναγιούδα μ να γίν’ καλά ι γιος ιμ τσ είνι νιος!
 # text_el = Παναγίτσα μου, να γίνει καλά ο γιος μου και είναι νέος!
 1	Παναγιούδα	Παναγιά	PROPN	_	Case=Voc|Degree=Dim|Gender=Fem|Number=Sing	4	vocative	_	_
@@ -5867,7 +5867,7 @@
 12	!	!	PUNCT	_	PunctType=Excl	4	punct	_	PunctType=Excl
 
 # sent_id = written_corpus_336
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Απού παναγύρ σι παναγύρ γυρίζ, παναγυρού μας γίν’κ’ η Χριστίνα.
 # text_el = Από πανηγύρι σε πανηγύρι γυρίζει. Πανηγυρτζού μας έγινε η Χριστίνα.
 1	Απού	απού	ADP	_	_	2	case	_	_
@@ -5884,7 +5884,7 @@
 12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_337
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Χτύπσι του ποδάρ ιτ στου σίδιρου τσι κόπτσι μια παρτσαφλάδα.
 # text_el = Χτύπησε το ποδάρι του στο σίδερο και κόπηκε ένα κομμάτι δέρμα.
 1	Χτύπσι	χτπώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5902,7 +5902,7 @@
 12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_338
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τν αυγή, αχάραγα π σκώνουμι βήχου σα ντου γάδαρου τσι βγάζου ρέχις.
 # text_el = Την αυγή, αχάραγα που σηκώνομαι, βήχω σαν τον γάιδαρο και βγάζω φλέματα.
 1	Τν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
@@ -5921,7 +5921,7 @@
 14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_339
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τσν’ήγουμ στα βνά τσ έμπλεξα σι κάτ ρουμάνια.
 # text_el = Κυνηγούμε στα βουνά και μπλέχτηκα σε κάτι ρουμάνια.
 1	Τσν’ήγουμ	τσνηγώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5937,7 +5937,7 @@
 10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_340
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Πάμι στου γκαφινέ να βρούμι τουν Αλέκου του ρουνιό να πούμι τίπουτα να γιλάσ τ αχ’λέλ’ μας;
 # text_el = Πάμε στον καφενέ να βρούμε τον Αλέκο τον είρωνα να πούμε τίποτα να γελάσει το χειλάκι μας;
 1	Πάμι	πγαίνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5962,7 +5962,7 @@
 19	;	;	PUNCT	_	PunctType=Qest	1	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_341
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Νουρίς νουρίς έβγαλι του ρουσόλ’ τσείνουνα του μουρό.
 # text_el = Νωρίς νωρίς έβγαλε την ερυθρά το παιδί.
 1	Νουρίς	νουρίς	ADV	_	_	2	compound:redup	_	_
@@ -5976,7 +5976,7 @@
 9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_342
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Πέταξι μια σπέθα αμ του μαγκάλ’, άρπαξι φουτιά του σπίτ.
 # text_el = Πέταξε μια σπίθα από το μαγκάλι και άρπαξε φωτιά το σπίτι.
 1	Πέταξι	πιτώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5993,7 +5993,7 @@
 12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_343
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Άμα πλ’ύνου τα πιάτα σπω τσι κανέ πουτηρέλλ’.
 # text_el = Όταν πλένω τα πιάτα, σπάω και κανένα ποτηράκι.
 1	Άμα	άμα	SCONJ	_	_	2	mark	_	_
@@ -6007,7 +6007,7 @@
 9	.	.	PUNCT	_	PunctType=Peri	5	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_344
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Πόσουν τζιριμέ πλέρουσις;
 # text_el = Πόσο πρόστιμο πλήρωσες;
 1	Πόσουν	πόσους	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -6016,7 +6016,7 @@
 4	;	;	PUNCT	_	PunctType=Qest	3	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_345
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Μι τζουγκράν’σ η γάτα του πουδάρ ιμ τσ έτριχ’ αίμα.
 # text_el = Μου γρατζούνισε η γάτα το πόδι μου και έτρεχε αίμα.
 1	Μι	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
@@ -6032,7 +6032,7 @@
 11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_346
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Μί τζώθτσι τσ έν ήξιρα τί να κάνου.
 # text_el = Μου κόλλησε και δεν ήξερα τι να κάνω.
 1	Μί	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
@@ -6046,7 +6046,7 @@
 9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_347
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Άντι μουρή τσόλα που μι σήκουσις τσιφάλ’!
 # text_el = Άντε, μωρέ τσόλι, που μου σήκωσες κεφάλι!
 1	Άντι	άντι	INTJ	_	_	0	root	_	_
@@ -6059,7 +6059,7 @@
 8	!	!	PUNCT	_	PunctType=Excl	1	punct	_	PunctType=Excl
 
 # sent_id = written_corpus_348
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Πλά του σπίτ ιτ μ ούλα τα τσκαλουμπάρδακα πό χ’ μέσα.
 # text_el = Πουλά το σπίτι του με όλα τα πράγματα (άνευ αξίας) που έχει μέσα.
 1	Πλά	πλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -6076,7 +6076,7 @@
 12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_349
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Μούρ κόρ ιμ, κάτσι πλια στ αυγά σ.
 # text_el = Βρε κόρη μου, κάτσε πια στ' αυγά σου.
 1	Μούρ	μουρός	INTJ	_	Case=Voc|Gender=Fem|Number=Sing	2	discourse	_	_
@@ -6093,7 +6093,7 @@
 11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_350
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ήρτις τσ έ σι πήρα χαμπάρ.
 # text_el = Ήρθες και δεν σε πήρα χαμπάρι.
 1	Ήρτις	έρχουμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -6105,7 +6105,7 @@
 7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_351
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ώχωχ-ομ, έπισις;
 # text_el = Αχ, έπεσες;
 1	Ώχωχ-ομ	ώχωχ-ομ	INTJ	_	_	3	discourse	_	SpaceAfter=No
@@ -6114,7 +6114,7 @@
 4	;	;	PUNCT	_	PunctType=Qest	3	punct	_	PunctType=Qest
 
 # sent_id = written_corpus_352
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ι Κώστας ι ρουμνιουράφτς ήνταν γείτουνάς ιμ.
 # text_el = Ο Κώστας ο βρακοράφτης ήταν γείτονάς μου.
 1	Ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -6127,7 +6127,7 @@
 8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_353
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Πά στα ράχτα είνι χτισμένου του σπίτ ιτ.
 # text_el = Πάνω στα βράχια είναι χτισμένο το σπίτι του.
 1	Πά	πάνου	ADV	_	_	6	advmod	_	_
@@ -6143,7 +6143,7 @@
 10	.	.	PUNCT	_	PunctType=Peri	6	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_354
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Βάλι του παράντ σν ουξόπορτα τσ έλα μέσα.
 # text_el = Βάλε τον σύρτη στην πόρτα και έλα μέσα.
 1	Βάλι	βάζου	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -6159,7 +6159,7 @@
 10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	PunctType=Peri
 
 # sent_id = written_corpus_355
-# source = Ralli, A. (2017). Lexicon of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
+# source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Αρχίν’σι να ξιπαραλ’εις του παντό σ για να του φαρδύνουμι.
 # text_el = Άρχισε να ξηλώνεις το παλτό σου για να το φαρδύνουμε.
 1	Αρχίν’σι	αρχίζου	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
