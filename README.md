@@ -102,7 +102,8 @@ This work has been carried out within the Archimedes Research Unit of the Athena
   * Updated several lemmas for improved consistency.
   * Added information about phonological intradialectal variants in the MISC column in cases where a common lemma is used for different surface realizations.
   * Updated the annotation of punctuation to ensure consistency across the treebank.
-
+* 2026-03-09 v2.17
+  * Updated the annotation of fixed expressions to ensure consistency with the UD Greek-GUD treebank.
 
 
 <pre>
