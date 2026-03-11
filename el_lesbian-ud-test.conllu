@@ -2631,7 +2631,7 @@
 11	δούμι	βλέπου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	5	advcl	_	_
 12	τίλιγια	τίλιγια	ADV	_	PronType=Int	14	advmod	_	_
 13	θα	θα	AUX	_	Tense=Fut	14	aux	_	_
-14	σβύσ’	σβήνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Typo=Yes|VerbForm=Fin|Voice=Act	11	ccomp	_	CorrectForm=σβήσ'
+14	σβύσ’	σβήνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Typo=Yes|VerbForm=Fin|Voice=Act	11	ccomp	_	CorrectForm=σβήσ’
 15	η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	φουτιά	φουτιά	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
 17	π’	που	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	19	obj	_	_
