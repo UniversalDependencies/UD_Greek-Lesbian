@@ -6,7 +6,7 @@
 2	θα	θα	AUX	_	Tense=Fut	8	aux	_	_
 3-4	νήνταν	_	_	_	_	_	_	_	_
 3	ν	να	AUX	_	_	2	fixed	_	_
-4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_
+4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
 5-6	ίσιαμι	_	_	_	_	_	_	_	_
 5	ίσια	ίσια	ADV	_	ExtPos=ADP	8	case	_	_
 6	μι	μι	ADP	_	_	5	fixed	_	_
@@ -60,8 +60,8 @@
 17	μπουρεί	μπουρώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
 18	να	να	SCONJ	_	_	19	mark	_	_
 19	στέτς	στέκουμι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	17	xcomp	_	_
-20	γι	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art|Typo=Yes	21	det	_	CorrectForm=γη|MGloss=euphonic-the|MSeg=γ-η
-21	μανή	μανή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	nsubj	_	_
+20	γι	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art|Typo=Yes	21	det	_	CorrectForm=γη|MGloss=euphonic-the|MSeg=γ-η
+21	μανή	μανή	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
 22	σας	ιγώ	PRON	_	Case=Gen|Number=Plur|Person=2|Poss=Yes|PronType=Prs	21	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
@@ -129,8 +129,8 @@
 # text_el = Άμα τελείωναν τα λαχανικά και το λάδι, αφού έβλεπε τι περνούσαν οι άνθρωποι αυτοί, νόμιζε πως τα έστελνε στη μάνα του, στα αδέρφια του, στον πατέρα του.
 1	Άμανι	άμα	SCONJ	_	_	2	mark	_	_
 2	τιλειώναν	τιλειώνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	_
-3	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
-4	μπαχτσαβανκά	μπαχτσαβανκό	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	nsubj	_	_
+3	τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+4	μπαχτσαβανκά	μπαχτσαβανκό	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
 5	τσι	τσι	CCONJ	_	_	7	cc	_	_
 6	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
 7	λαδ	λάδ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	SpaceAfter=No
@@ -149,19 +149,19 @@
 19	στηρνει	στέλνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin|Voice=Act	16	ccomp	_	CorrectForm=στιρνι
 20	σ’	σι	ADP	_	_	21	case	_	_
 21	μάνα	μάνα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obl	_	_
-22	ντ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	nmod	_	Voicing=Voiced|SpaceAfter=No
+22	ντ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	nmod	_	SpaceAfter=No|Voicing=Voiced
 23	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 24-25	στ’	_	_	_	_	_	_	_	_
 24	σ	σι	ADP	_	_	26	case	_	_
 25	τ’	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	26	det	_	_
 26	αδέρφια	αδιρφός	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	21	conj	_	_
-27	ντ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	nmod	_	Voicing=Voiced|SpaceAfter=No
+27	ντ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	nmod	_	SpaceAfter=No|Voicing=Voiced
 28	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
 29-30	στου	_	_	_	_	_	_	_	_
 29	σ	σι	ADP	_	_	31	case	_	_
 30	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	πατέρα	πατέρας	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	21	conj	_	_
-32	ντ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	31	nmod	_	Voicing=Voiced|SpaceAfter=No
+32	ντ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	31	nmod	_	SpaceAfter=No|Voicing=Voiced
 33	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
 
 # sent_id = written_corpus_8
@@ -277,9 +277,9 @@
 # source = Anagnostou, V. T. (2014). Tsi sta th'ka mas: Komodia sta k'stariot'ka [Tsi sta th'ka mas: Comedy in the K'stariot'ka Dialect], first edition. Estia Technon Skoutarou "T'Apono to Scholio".
 # text = Σιγά τώρα π’ δε ξέρουμι τίλιγια γ’νόντιν τα μουρά!
 # text_el = Σιγά τώρα που δεν ξέρουμε πώς γίνονται τα μωρά.
-1	Σιγά	σιγά	ADV	_	ExtPos=ADV	5	advmod	_	_
-2	τώρα	τώρα	ADV	_	_	1	advmod	_	_
-3	π’	που	SCONJ	_	PronType=Rel	1	fixed	_	_
+1	Σιγά	σιγά	ADV	_	_	5	advmod	_	_
+2	τώρα	τώρα	ADV	_	_	5	advmod	_	_
+3	π’	που	SCONJ	_	PronType=Rel	5	mark	_	_
 4	δε	δεν	PART	_	Polarity=Neg	5	advmod	_	_
 5	ξέρουμι	ξέρου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	τίλιγια	τίλιγια	ADV	_	PronType=Int	7	advmod	_	_
@@ -385,8 +385,8 @@
 6	μπουμπές	μπουμπή	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 8	ε	ε	INTJ	_	_	13	discourse	_	_
-9	π’	που	SCONJ	_	ExtPos=ADV	13	advmod	_	_
-10	να	να	AUX	_	_	9	fixed	_	_
+9	π’	που	SCONJ	_	_	13	mark	_	_
+10	να	να	AUX	_	_	13	aux	_	_
 11	μη	μην	PART	_	Polarity=Neg	13	advmod	_	_
 12	σι	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	13	obj	_	_
 13	βρει	βρίσκου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	parataxis	_	_
@@ -399,7 +399,7 @@
 # source = Anagnostopoulou, M. A. (2021). Thematiko Lexiko tis Lesviakis Dialektou [Thematic Dictionary of the Lesbos Dialect]. Mythos BOOKS, Mytilene.
 # text = Είνι λοιμ’τσιασμένους τσι δε βγαίν’ όξου.
 # text_el = Είναι άρρωστος και δεν βγαίνει έξω.
-1	Είνι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	_
+1	Είνι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	λοιμ’τσιασμένους	λοιμτσιασμένους	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
 3	τσι	τσι	CCONJ	_	_	5	cc	_	_
 4	δε	δεν	PART	_	Polarity=Neg	5	advmod	_	_
@@ -413,8 +413,8 @@
 # text_el = Άντε, κορούλα μου, έχε την ευχή μου. Εγώ δεν έχω κανέναν και αυτά που έχουμε με τον Θρασύβουλο δικά σου θα είναι μια μέρα.
 1	Άγι	άγι	INTJ	_	_	4	discourse	_	_
 2-3	κουρούδαμ	_	_	_	_	_	_	_	_
-2	κουρούδα	κόρ	NOUN	_	Case=Voc|Degree=Dim|Gender=Fem|Number=Sing	4	vocative	_	Typo=Yes
-3	μ	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	Typo=Yes
+2	κουρούδα	κόρ	NOUN	_	Case=Voc|Degree=Dim|Gender=Fem|Number=Sing|Typo=Yes	4	vocative	_	_
+3	μ	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs|Typo=Yes	2	nmod	_	_
 4	έχει	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Act	0	root	_	CorrectForm=έχι
 5	τν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6-7	ηφτσήμ	_	_	_	_	_	_	_	SpaceAfter=No
@@ -426,19 +426,19 @@
 11	έχου	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	_
 12	κανέναν	κανένας	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	11	obj	_	_
 13	τσί	τσι	CCONJ	_	Typo=Yes	20	cc	_	CorrectForm=τσι
-14	έφτα	εύτους	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	20	nsubj	_	_
+14	έφτα	εύτους	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	20	nsubj	_	_
 15	πού	που	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel|Typo=Yes	16	obj	_	CorrectForm=που
 16	έχουμη	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Act	14	acl:relcl	_	CorrectForm=έχουμι
 17	μη	μι	ADP	_	Typo=Yes	19	case	_	CorrectForm=μι
 18	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	Θρασίβουλου	Θρασύβουλους	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Typo=Yes	16	obl	_	CorrectForm=Θρασύβουλου
 20-21	θκάς	_	_	_	_	_	_	_	_
-20	θκά	δκός	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	11	conj	_	_
+20	θκά	δκός	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	11	conj	_	_
 21	ς	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	20	nmod	_	_
 22	θα	θα	AUX	_	Tense=Fut	20	aux	_	_
 23-24	νείνη	_	_	_	_	_	_	_	_
 23	ν	να	AUX	_	_	22	fixed	_	_
-24	είνη	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Pass	20	cop	_	CorrectForm=είνι
+24	είνη	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	20	cop	_	CorrectForm=είνι
 25	μια	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	μέρα	μέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	obl	_	SpaceAfter=No
 27	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
@@ -452,8 +452,8 @@
 3	ξέρ’	ξέρου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	τι	τι	SCONJ	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	_
 5	ξ’μιρών’	ξμιρώνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
-6	τ’	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
-7	αύριγιου	αύριγιου	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	5	nsubj	_	SpaceAfter=No
+6	τ’	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+7	αύριγιου	αύριγιου	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = written_corpus_25
@@ -568,10 +568,10 @@
 20	να	να	SCONJ	_	_	21	mark	_	_
 21	τλιχτείς	τλίγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Pass	19	ccomp	_	_
 22-23	πάς	_	_	_	_	_	_	_	_
-22	πά	πάνου	ADV	_	ExtPos=ADP|Typo=Yes	25	case	_	_
-23	ς	σι	ADP	_	_	22	fixed	_	_
+22	πά	πάνου	ADV	_	Typo=Yes	21	advmod	_	_
+23	ς	σι	ADP	_	_	25	case	_	_
 24	ντ	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
-25	πατσάδα	πατσάδα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	obl	_	SpaceAfter=No
+25	πατσάδα	πατσάδα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
 26	;	;	PUNCT	_	PunctType=Qest	19	punct	_	_
 
 # sent_id = written_corpus_30
@@ -581,7 +581,7 @@
 1	Ποια	ποιος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	5	nsubj	_	_
 2-3	νάν’	_	_	_	_	_	_	_	_
 2	νά	να	AUX	_	_	5	aux	_	_
-3	ν’	είμι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	cop	_	_
+3	ν’	είμι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	λιγάμιν’	λιγάμινους	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 6	άραγις	άραγις	ADV	_	_	5	advmod	_	SpaceAfter=No
@@ -595,10 +595,10 @@
 2	γίνταν	γίνουμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	τρεις	τρεις	NUM	_	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	4	nummod	_	_
 4	βδουμάδις	βδουμάδα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	obl	_	_
-5	πριν	πριν	ADV	_	ExtPos=ADP	8	case	_	_
-6	απ’	απού	ADP	_	_	5	fixed	_	_
+5	πριν	πριν	ADV	_	_	4	advmod	_	_
+6	απ’	απού	ADP	_	_	8	case	_	_
 7	τσ	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art|Typo=Yes	8	det	_	CorrectForm=τς
-8	απουκριγιές	απουκριγιά	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	obl	_	SpaceAfter=No
+8	απουκριγιές	απουκριγιά	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 10	έγτιν	έγιουτους	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
 11	τ	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -660,7 +660,7 @@
 12	μ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod	_	_
 13	τυχιρά	τυχιρός	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	2	parataxis	_	_
 14	να	να	AUX	_	_	13	aux	_	_
-15	’νι	είμι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	cop	_	SpaceAfter=No
+15	’νι	είμι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	SpaceAfter=No
 16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = written_corpus_34
@@ -674,7 +674,7 @@
 5	σμαζοξην	σμαζώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Typo=Yes|VerbForm=Fin|Voice=Act	3	xcomp	_	CorrectForm=σμαζώξιν
 6	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	_
 7	σπίτια	σπίτ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
-8	ντούν	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Typo=Yes	7	nmod	_	CorrectForm=ντουν|Voicing=Voiced|SpaceAfter=No
+8	ντούν	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Typo=Yes	7	nmod	_	CorrectForm=ντουν|SpaceAfter=No|Voicing=Voiced
 9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 10-11	νανάψουν	_	_	_	_	_	_	_	_
 10	ν	να	SCONJ	_	_	11	mark	_	_
@@ -685,7 +685,7 @@
 15	πιούν	πίνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Typo=Yes|VerbForm=Fin|Voice=Act	11	advcl	_	CorrectForm=πιουν
 16	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_
 17	καφιδέλ	καφές	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing	15	obj	_	_
-18	ντουν	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod	_	Voicing=Voiced|SpaceAfter=No
+18	ντουν	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod	_	SpaceAfter=No|Voicing=Voiced
 19	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = written_corpus_35
@@ -834,7 +834,7 @@
 # text = Τί ένι μαγευτήρας βρε κόρ’;
 # text_el = Τι είναι «μαγευτήρας» (παρετυμολογία του «μαιευτήρας»), βρε κόρη;
 1	Τί	τι	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int|Typo=Yes	0	root	_	CorrectForm=Τι
-2	ένι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	cop	_	_
+2	ένι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	μαγευτήρας	μαγευτήρας	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 4	βρε	βρε	INTJ	_	_	5	discourse	_	_
 5	κόρ’	κόρ	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	1	vocative	_	SpaceAfter=No
@@ -964,7 +964,7 @@
 # text_el = Μια κοιλαρού είναι η κόρη της Μελπωμένης.
 1	Μια	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	βουδουτσοίλα	βουδουτσοίλα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-3	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	_
+3	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 4	η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	κόρ’	κόρ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
 6	τ’ς	η	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -1045,7 +1045,7 @@
 5	γιατί	γιατί	SCONJ	_	_	9	mark	_	_
 6	γη	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	MGloss=euphonic-the|MSeg=γ-η
 7	Σμυρν’	Σμύρν	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Typo=Yes	9	nsubj	_	CorrectForm=Σμύρν’
-8	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	cop	_	_
+8	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
 9	πασίμαδ	πασίμαδους	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	advcl	_	_
 10	έγιουτι	έγιουτι	ADV	_	_	9	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
@@ -1127,8 +1127,8 @@
 8	βόιζει	βουγίζου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Act	6	parataxis	_	CorrectForm=βόιζι
 9	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
 10	χουριό	χουριό	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
-11	μο	μόνου	ADV	_	ExtPos=ADV	14	advmod	_	_
-12	που	που	SCONJ	_	_	11	fixed	_	_
+11	μο	μόνου	ADV	_	_	14	advmod	_	_
+12	που	που	SCONJ	_	_	14	mark	_	_
 13	δεν	δεν	PART	_	Polarity=Neg	14	advmod	_	_
 14	έκλιγει	κλαίγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Act	6	parataxis	_	CorrectForm=έκλιγι|SpaceAfter=No
 15	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
@@ -1201,8 +1201,8 @@
 4	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	λάδ’	λάδ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
 6	πάγ’	πγαίνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
-7	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
-8	λάδ’	λάδ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	nsubj	_	SpaceAfter=No
+7	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	λάδ’	λάδ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = written_corpus_67
@@ -1217,8 +1217,8 @@
 6	μέρες	μέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
 7	να	να	SCONJ	_	_	8	mark	_	_
 8	τιλιώσ’	τιλειώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	advcl	_	_
-9	το	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
-10	παιδί	πιδί	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	nsubj	_	_
+9	το	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
+10	παιδί	πιδί	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
 11	τ’	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
 12	Αγροτικό	Αγροτικός	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
 13	τ’	ιγώ	PRON	_	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod	_	_
@@ -1244,21 +1244,21 @@
 # text = Κρυγιουλόγ’σι του στομάχ’ ιμ τσιούλου αναδράμου.
 # text_el = Κρυολόγησε το στομάχι μου και όλο έχω παλινδρομήσεις.
 1	Κρυγιουλόγ’σι	κρυγιουλογώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
-3	στομάχ’	στουμάχ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	nsubj	_	_
+2	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	στομάχ’	στουμάχ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	_
 4	ιμ	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	MGloss=euphonic-my|MSeg=ι-μ
 5-6	τσιούλου	_	_	_	_	_	_	_	_
 5	τσι	τσι	CCONJ	_	_	7	cc	_	_
 6	ούλου	ούλου	ADV	_	PronType=Tot	7	advcl	_	_
-7	αναδράμου	αναδράμου	X	_	Style=Arch	1	conj	_	SpaceAfter=No
+7	αναδράμου	αναδράμου	X	_	_	1	conj	_	SpaceAfter=No|Style=Arch
 8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = written_corpus_70
 # source = Tsokarou-Mitsioni, E. (2019). Prosfygiá [Refugeehood], first edition. D. Doukas & Sia O.V.E.E.
 # text = Άλλου που δεν ήθιλι γ’ Αντρόνα...
 # text_el = Άλλο που δεν ήθελε η Ανδρονίκη...
-1	Άλλου	άλλου	ADV	_	ExtPos=ADV|PronType=Ind	4	advmod	_	_
-2	που	που	SCONJ	_	PronType=Rel	1	fixed	_	_
+1	Άλλου	άλλου	ADV	_	PronType=Ind	4	advmod	_	_
+2	που	που	SCONJ	_	PronType=Rel	4	mark	_	_
 3	δεν	δεν	PART	_	Polarity=Neg	4	advmod	_	_
 4	ήθιλι	θέλου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	γ’	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	MGloss=euphonic-the|MSeg=γ-η
@@ -1271,8 +1271,8 @@
 # text_el = Η Ασπασούλα (είναι) μια παλαβή, κρίμα στην ομορφιά της.
 1	Του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
 2	Ασπασέλ’	Ασπασέλ	PROPN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Sing	4	nsubj	_	_
-3	μια	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	παλαβουκ’δούνα	παλαβουκδούνα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	μια	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	παλαβουκ’δούνα	παλαβουκδούνα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 6	κρίμα	κρίμα	ADV	_	_	4	parataxis	_	_
 7-8	στ’ν	_	_	_	_	_	_	_	_
@@ -1302,8 +1302,8 @@
 14	πότι	πότι	ADV	_	PronType=Int	16	advmod	_	_
 15	θα	θα	AUX	_	Tense=Fut	16	aux	_	_
 16	χαθούν	χάνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	parataxis	_	_
-17	τ’	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	18	det	_	_
-18	άστρα	άστρου	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	16	nsubj	_	_
+17	τ’	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	18	det	_	_
+18	άστρα	άστρου	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	16	nsubj	_	_
 19	να	να	SCONJ	_	_	20	mark	_	_
 20	ξμηρώσ’	ξμιρώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	16	advcl	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
@@ -1357,7 +1357,7 @@
 2	λοιπόν	λοιπόν	INTJ	_	_	3	discourse	_	_
 3	τελειούνη	τελειούνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Act	0	root	_	CorrectForm=τελειούνει
 4	γιου	ου	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	MGloss=euphonic-the|MSeg=γι-ου
-5	15	15	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Typo=Yes	3	nsubj	_	_
+5	15	15αύγουστους	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Typo=Yes	3	nsubj	_	CorrectForm=Δεκαπενταύγουστους
 6	Αύγουστους	_	X	_	_	5	goeswith	_	_
 7	σμαζόναν	σμαζώνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin|Voice=Act	3	parataxis	_	CorrectForm=σμαζώναν
 8	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	_
@@ -1376,7 +1376,7 @@
 2	λέγου	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	πους	πους	SCONJ	_	_	6	mark	_	_
 4	δεν	δεν	PART	_	Polarity=Neg	6	advmod	_	_
-5	ένι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	cop	_	_
+5	ένι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 6	σουστό	σουστός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	ccomp	_	_
 7	να	να	SCONJ	_	_	8	mark	_	_
 8	γλιντούμι	γλιντώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	csubj	_	_
@@ -1439,18 +1439,18 @@
 3	άντρα	άντρας	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	_
 4	μ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	_
 5	να	να	SCONJ	_	_	7	mark	_	_
-6	’μαστι	είμι	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	7	cop	_	_
+6	’μαστι	είμι	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	φίλ’	φίλους	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	ccomp	_	_
 8	κβάνει	κβανιώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	τίγγα	τίγγα	ADV	_	_	8	advmod	_	_
-10	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
-11	ζιμπίλ’	ζιμπίλ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	nsubj	_	SpaceAfter=No
+10	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	ζιμπίλ’	ζιμπίλ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 13	που	που	ADV	_	_	14	advmod	_	_
 14	λέγ’	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
 15	τσι	τσι	CCONJ	_	_	17	cc	_	_
-16	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_
-17	τραγούδ’	τραγούδ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	nsubj	_	SpaceAfter=No
+16	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_
+17	τραγούδ’	τραγούδ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	SpaceAfter=No
 18	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 # sent_id = written_corpus_80
@@ -1549,7 +1549,7 @@
 9	σ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	nmod	_	_
 10	τσακτίζ’	τσακτίζου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
-12	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	cop	_	_
+12	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 13	αλήθεια	αλήθεια	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	parataxis	_	SpaceAfter=No
 14	;	;	PUNCT	_	PunctType=Qest	5	punct	_	_
 
@@ -1658,7 +1658,7 @@
 2	να	να	PART	_	_	6	discourse	_	_
 3	ω	ω	INTJ	_	_	4	discourse	_	_
 4	θειά	θεια	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	6	vocative	_	_
-5	είμι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	6	cop	_	_
+5	είμι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	στιναχουρημέν	στιναχουρημένους	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
 7	τσι	τσι	CCONJ	_	_	8	cc	_	_
 8	ήθελα	θέλου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
@@ -1667,8 +1667,8 @@
 11	τι	τις	SCONJ	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	13	obj	_	_
 12	θα	θα	AUX	_	Tense=Fut	13	aux	_	_
 13	πουν	λέγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	10	ccomp	_	_
-14	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	15	det	_	_
-15	κτσιά	κτσί	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	nsubj	_	SpaceAfter=No
+14	τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	15	det	_	_
+15	κτσιά	κτσί	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	13	nsubj	_	SpaceAfter=No
 16	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
 
 # sent_id = written_corpus_94
@@ -1709,7 +1709,7 @@
 5	έχ’	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 6	μαντίνου	μαντίνους	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	xcomp	_	_
 7	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	Μπάνου	Πάνους	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Voicing=Voiced|SpaceAfter=No
+8	Μπάνου	Πάνους	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No|Voicing=Voiced
 9	;	;	PUNCT	_	PunctType=Qest	1	punct	_	_
 
 # sent_id = written_corpus_97
@@ -1734,8 +1734,8 @@
 # source = Anagnostou, V. T. (2014). Tsi sta th'ka mas: Komodia sta k'stariot'ka [Tsi sta th'ka mas: Comedy in the K'stariot'ka Dialect], first edition. Estia Technon Skoutarou "T'Apono to Scholio".
 # text = Σαν να μ’ φαίνητι πους άργησις κουμάτ’.
 # text_el = Σαν να μου φαίνεται πως άργησες λίγο.
-1	Σαν	σαν	ADV	_	ExtPos=ADV	4	advmod	_	_
-2	να	να	SCONJ	_	_	1	fixed	_	_
+1	Σαν	σαν	ADV	_	_	4	advmod	_	_
+2	να	να	SCONJ	_	_	4	mark	_	_
 3	μ’	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
 4	φαίνητι	φαίνουμι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Pass	0	root	_	CorrectForm=φαίνιτι
 5	πους	πους	SCONJ	_	_	6	mark	_	_
@@ -1780,7 +1780,7 @@
 # text = Καλή είναι γη γλυτσιρίδα Ατζιλικο όμους τσι να φάμι τίπουτα, τι λεγς;
 # text_el = Καλός είναι η γλυκάδα (= ο έρωτας) Αγγελικούλα, όμως να φάμε και τίποτα, τι λες;
 1	Καλή	καλός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-2	είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	cop	_	_
+2	είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	γη	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	MGloss=euphonic-the|MSeg=γ-η
 4	γλυτσιρίδα	γλυτσιρίδα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
 5	Ατζιλικο	Ατζιλικό	PROPN	_	Case=Voc|Degree=Dim|Gender=Neut|Number=Plur|Typo=Yes	1	vocative	_	CorrectForm=Ατζιλικό
@@ -1799,20 +1799,22 @@
 # text = Μουρή Ρήν σήμιρα πριν απ’ νακλσησιά θα νανοίξειν λέγ τσι τα κουτουτσιά.
 # text_el = Μωρή Ειρήνη, σήμερα πριν από την εκκλησία θα ανοίξουν λένε και τα κουτούκια.
 1	Μουρή	μουρός	INTJ	_	Case=Voc|Gender=Fem|Number=Sing	2	discourse	_	_
-2	Ρήν	Ρήν	PROPN	_	Case=Voc|Gender=Fem|Number=Sing	9	vocative	_	_
-3	σήμιρα	σήμιρα	ADV	_	_	9	advmod	_	_
-4	πριν	πριν	ADV	_	ExtPos=ADP	6	case	_	_
-5	απ’	απού	ADP	_	_	4	fixed	_	_
-6	νακλσησιά	νακκλησιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Typo=Yes	9	obl	_	CorrectForm=νακκλησιά
-7	θα	θα	AUX	_	Tense=Fut	9	aux	_	_
-8-9	νανοίξειν	_	_	_	_	_	_	_	_
-8	ν	να	AUX	_	_	7	fixed	_	_
-9	ανοίξειν	ανοίγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Typo=Yes|VerbForm=Fin|Voice=Act	0	root	_	CorrectForm=ανοίξιν
-10	λέγ	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	_
-11	τσι	τσι	CCONJ	_	_	13	cc	_	_
-12	τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	13	det	_	_
-13	κουτουτσιά	κουτούτσ	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	SpaceAfter=No
-14	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+2	Ρήν	Ρήν	PROPN	_	Case=Voc|Gender=Fem|Number=Sing	10	vocative	_	_
+3	σήμιρα	σήμιρα	ADV	_	_	10	advmod	_	_
+4	πριν	πριν	ADV	_	_	10	advmod	_	_
+5	απ’	απού	ADP	_	_	7	case	_	_
+6-7	νακλσησιά	_	_	_	_	_	_	_	_
+6	ν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	ακλσησιά	ακλσησιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Typo=Yes	4	obl	_	CorrectForm=ακκλησιά
+8	θα	θα	AUX	_	Tense=Fut	10	aux	_	_
+9-10	νανοίξειν	_	_	_	_	_	_	_	_
+9	ν	να	AUX	_	_	8	fixed	_	_
+10	ανοίξειν	ανοίγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Typo=Yes|VerbForm=Fin|Voice=Act	0	root	_	CorrectForm=ανοίξιν
+11	λέγ	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	_
+12	τσι	τσι	CCONJ	_	_	14	cc	_	_
+13	τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	14	det	_	_
+14	κουτουτσιά	κουτούτσ	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	SpaceAfter=No
+15	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
 # sent_id = written_corpus_103
 # source = Tsokarou-Mitsioni, E. (1998). Palies Istories ap tn Agiasiou [Old Stories from Agiasio], 2nd edition. Private Edition, Mytilene.
@@ -1845,7 +1847,7 @@
 1	Δανά	δανά	ADV	_	_	7	advmod	_	_
 2	που	που	ADV	_	PronType=Rel	3	advmod	_	_
 3	ήρτις	έρχουμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl:relcl	_	_
-4	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	cop	_	_
+4	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 5-6	στα	_	_	_	_	_	_	_	_
 5	σ	σι	ADP	_	_	7	case	_	_
 6	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	_
@@ -1906,7 +1908,7 @@
 1	Γληγόρ’ς	Γληγόρς	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	έρχιτι	έρχουμι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	τσι	τσι	CCONJ	_	_	5	cc	_	_
-4	είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	cop	_	_
+4	είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	σκνίπα	σκνίπα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
 6-7	στου	_	_	_	_	_	_	_	_
 6	σ	σι	ADP	_	_	8	case	_	_
@@ -1939,7 +1941,7 @@
 # source = Tsokarou-Mitsioni, E. (2019). Prosfygiá [Refugeehood], first edition. D. Doukas & Sia O.V.E.E.
 # text = Ήταν μια γναίκα τόσου καλουσνάτ’ που σίρχουντου να τρεξ’ να φλισ’ του χέριτζ.
 # text_el = Ήταν μια γυναίκα τόσο καλοσυνάτη που σου ερχόταν να τρέξεις να της φιλήσεις το χέρι της.
-1	Ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	cop	_	_
+1	Ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 2	μια	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	γναίκα	γναίκα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 4	τόσου	τόσου	ADV	_	_	5	advmod	_	_
@@ -1991,7 +1993,7 @@
 # source = Tsokarou-Mitsioni, E. (2019). Prosfygiá [Refugeehood], first edition. D. Doukas & Sia O.V.E.E.
 # text = Ήνταν ένας απλός τσι καλουκάγαθους άθριπους, άμα αραθύμα όμους εν ήξιρι τι ντάκανι.
 # text_el = Ήταν ένας απλός και καλοκάγαθος άνθρωπος. Αν παραθύμωνε όμως, δεν ήξερε τι έκανε.
-1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	cop	_	_
+1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 2	ένας	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 3	απλός	απλός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
 4	τσι	τσι	CCONJ	_	_	5	cc	_	_
@@ -2059,7 +2061,7 @@
 10	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
 11	μούτσνου	μούτσνου	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
 12	τ’ς	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod	_	_
-13	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	14	cop	_	_
+13	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	_
 14	γεμάτου	γιμάτους	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	_
 15	ζαργκλάδις	ζαργκλάς	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	14	obl	_	SpaceAfter=No
 16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
@@ -2137,7 +2139,7 @@
 9	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
 10	Ρινιό	Ρηνιώ	PROPN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Sing	4	conj	_	_
 11	εν	δεν	PART	_	Polarity=Neg	13	advmod	_	_
-12	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	13	cop	_	_
+12	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	_
 13	χουρατά	χουρατό	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	parataxis	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
@@ -2167,7 +2169,7 @@
 # text_el = Έχει βάση αυτό που λες.
 1	Έχ’	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	ασλί	ασλί	NOUN	_	_	1	obj	_	_
-3	έφτου	εύτους	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	έφτου	εύτους	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	_
 4	π’	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj	_	_
 5	λέγ’ς	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	SpaceAfter=No
 6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
@@ -2271,7 +2273,7 @@
 # text = Καλή είνη.
 # text_el = Καλή είναι.
 1	Καλή	καλός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-2	είνη	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Pass	1	cop	_	CorrectForm=είνι|SpaceAfter=No
+2	είνη	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	1	cop	_	CorrectForm=είνι|SpaceAfter=No
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = written_corpus_131
@@ -2311,7 +2313,7 @@
 5	πους	πους	SCONJ	_	_	10	mark	_	_
 6	η	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	γι-Απουστόλ’ς	Απουστόλς	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	MGloss=euphonic-Apostolis|MSeg=γι-Απουστόλ’ς
-8	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	cop	_	_
+8	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	ένας	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	μαλ’παζάνους	μαλπαζάνους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	ccomp	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
@@ -2344,7 +2346,7 @@
 10	Φρουσήν	Φρουσύν	PROPN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Sing|Typo=Yes	8	nsubj	_	CorrectForm=Φρουσύν
 11-12	πούταν	_	_	_	_	_	_	_	_
 11	πού	που	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel|Typo=Yes	15	nsubj	_	CorrectForm=που
-12	ταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	cop	_	_
+12	ταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	_
 13	γη	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	MGloss=euphonic-the|MSeg=γ-η
 14	πιο	πιο	ADV	_	Degree=Cmp	15	advmod	_	_
 15	μιγάλ	μιγάλους	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	10	acl:relcl	_	SpaceAfter=No
@@ -2520,7 +2522,7 @@
 6	κουρουκλάθ’κα	κουρουκλιέμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	_
 7	απ’	απού	ADP	_	_	9	case	_	_
 8	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	μ-πόνου	πόνους	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Voicing=Voiced|SpaceAfter=No
+9	μ-πόνου	πόνους	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No|Voicing=Voiced
 10	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = written_corpus_145
@@ -2807,7 +2809,7 @@
 12	τουν	ιγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
 13	ενημερώσου	ενημερώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	5	advcl	_	_
 14	τσι	τσι	CCONJ	_	_	16	cc	_	_
-15	είμη	είμι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Pass	16	cop	_	CorrectForm=είμι
+15	είμη	είμι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	16	cop	_	CorrectForm=είμι
 16	σίγουρους	σίγουρους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
 17	100	100	NUM	_	ExtPos=ADV|NumType=Card	16	advmod	_	_
 18	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	17	fixed	_	_
@@ -3100,10 +3102,10 @@
 10	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	Κόπ	Κόπς	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
 12-13	ίσιαμ	_	_	_	_	_	_	_	_
-12	ίσια	ίσια	ADV	_	ExtPos=ADP	15	case	_	_
-13	μ	μι	ADP	_	_	12	fixed	_	_
+12	ίσια	ίσια	ADV	_	_	9	advmod	_	_
+13	μ	μι	ADP	_	_	15	case	_	_
 14	τ	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	σκάλα	σκάλα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+15	σκάλα	σκάλα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
 16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = written_corpus_178
@@ -3142,8 +3144,8 @@
 # text_el = Φαρμάκι στάζει το στόμα της, σαν το φαρμακερό το φίδι.
 1	Φαρμάτς’	φαρμάτσ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	obj	_	_
 2	στάζ’	στάζου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
-4	στόμα	στόμα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	nsubj	_	_
+3	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	στόμα	στόμα	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
 5	τ’ς	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 7	σα	σαν	ADV	_	_	11	case	_	_
@@ -3157,10 +3159,10 @@
 # source = Tsokarou-Mitsioni, E. (2019). Prosfygiá [Refugeehood], first edition. D. Doukas & Sia O.V.E.E.
 # text = Ύστιρα απ’ ντ’ λτουργιά, Τσυριατσή, να παπάς Στιφανής, ένας παπάς πουλυγουσλούς τσι Λαυρόστχους.
 # text_el = Ύστερα από τη λειτουργία, Κυριακή, να ο παπα-Στεφανής, ένας παπάς πολύ γουστόζικος και …
-1	Ύστιρα	ύστιρα	ADV	_	ExtPos=ADP	4	case	_	_
-2	απ’	απού	ADP	_	_	1	fixed	_	_
+1	Ύστιρα	ύστιρα	ADV	_	_	10	nmod	_	_
+2	απ’	απού	ADP	_	_	4	case	_	_
 3	ντ’	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Voicing=Voiced
-4	λτουργιά	λτουργιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+4	λτουργιά	λτουργιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 6	Τσυριατσή	Τσυριατσή	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	4	appos	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
@@ -3220,7 +3222,7 @@
 1	Τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	_
 2	χείλια	χείλ	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
 3	τ’	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
-4	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	cop	_	_
+4	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 5	μέσ’	μέσα	ADP	_	Typo=Yes	7	case	_	CorrectForm=μες
 6	τ’ν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	αλ’χήνα	αλχήνα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -3314,13 +3316,13 @@
 3	μη	μην	PART	_	Polarity=Neg	5	advmod	_	_
 4	σ	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
 5	ακούς	ακούγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-6	κανέ	κανένας	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	7	det	_	_
-7	καθίτσι	καθίτσ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	nsubj	_	_
+6	κανέ	κανένας	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	det	_	_
+7	καθίτσι	καθίτσ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
 8	απ’	απού	ADP	_	_	9	case	_	_
 9	έγιουτα	έγιουτους	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	5	obl	_	_
 10	τσι	τσι	CCONJ	_	_	11	cc	_	_
 11	ψτέψ	πστεύου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	CorrectForm=πστέψ
-12	ντου	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	Voicing=Voiced|SpaceAfter=No
+12	ντου	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	SpaceAfter=No|Voicing=Voiced
 13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = written_corpus_191
@@ -3352,7 +3354,7 @@
 3	κάμπου	κάμπους	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
 4	το	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	γλέντ	γλέντ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
-6	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	cop	_	_
+6	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
 7-8	στα	_	_	_	_	_	_	_	_
 7	σ	σι	ADP	_	_	9	case	_	_
 8	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	_
@@ -3367,11 +3369,11 @@
 17	χέρ	χέρ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
 19-20	απόξου	_	_	_	_	_	_	_	_
-19	απ	απού	ADP	_	ExtPos=ADP	23	case	_	_
+19	απ	απού	ADP	_	ExtPos=ADV	24	advmod	_	_
 20	όξου	όξου	ADV	_	_	19	fixed	_	_
-21	απ	απού	ADP	_	_	19	fixed	_	_
+21	απ	απού	ADP	_	_	23	case	_	_
 22	τν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
-23	καφηνταρία	καφινταρία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	24	obl	_	CorrectForm=καφινταρία
+23	καφηνταρία	καφινταρία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obl	_	CorrectForm=καφινταρία
 24	χάλα	χαλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	parataxis	_	_
 25	κόσμους	κόσμους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	SpaceAfter=No
 26	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
@@ -3488,7 +3490,7 @@
 3	Στρατήγ	Στρατήγς	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 5	γω	ιγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-6	είμι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	8	cop	_	_
+6	είμι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	για	για	ADP	_	_	8	case	_	_
 8	σένα	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	parataxis	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
@@ -3612,15 +3614,15 @@
 1	Σ	σι	ADP	_	_	3	case	_	_
 2	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	θρανίου	θρανίου	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
-4	ήμν-ταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin|Voice=Pass	6	cop	_	CorrectForm=ήμνταν
+4	ήμν-ταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	6	cop	_	CorrectForm=ήμνταν
 5	η	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	καταμισ’νος	καταμισνός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|Typo=Yes	0	root	_	CorrectForm=καταμισ’νός|SpaceAfter=No
-7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
-8	ανάμισα	ανάμισα	ADV	_	ExtPos=ADP	11	case	_	_
+7	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
+8	ανάμισα	ανάμισα	ADV	_	ExtPos=ADP	6	nmod	_	_
 9-10	στου	_	_	_	_	_	_	_	_
-9	σ	σι	ADP	_	_	8	fixed	_	_
+9	σ	σι	ADP	_	_	11	case	_	_
 10	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	Βαγγέλ’	Βαγγέλ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	_
+11	Βαγγέλ’	Βαγγέλ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
 12	κι	τσι	CCONJ	_	_	14	cc	_	PhonVariant=Deaffricated
 13	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	Σπύρου	Σπύρους	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
@@ -3676,10 +3678,10 @@
 8	τσίρσ	τσύρς	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Typo=Yes	7	nsubj	_	CorrectForm=τσύρς
 9	ημ	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs|Typo=Yes	8	nmod	_	CorrectForm=ιμ|MGloss=euphonic-my|MSeg=ι-μ
 10-11	πας	_	_	_	_	_	_	_	_
-10	πα	πάνου	ADV	_	ExtPos=ADP	13	case	_	_
-11	ς	σι	ADP	_	_	10	fixed	_	_
+10	πα	πάνου	ADV	_	_	7	advmod	_	_
+11	ς	σι	ADP	_	_	13	case	_	_
 12	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
-13	κατέφλιου	κατέφλιου	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No
+13	κατέφλιου	κατέφλιου	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = written_corpus_210
@@ -3700,12 +3702,12 @@
 # source = Tsokarou-Mitsioni, E. (2019). Prosfygiá [Refugeehood], first edition. D. Doukas & Sia O.V.E.E.
 # text = Ήταν πι καρσί κατ’ παμπόρια μιγάλα γη φιλ’ μας γη ξένις δυνάμεις για να προυστατεύσειν λεγ τσ’ Ελληνις.
 # text_el = Ήταν απέναντι κάτι βαπόρια μεγάλα, οι φίλοι μας οι μεγάλες δυνάμεις, για να προστατεύσουν, λέει, τους Έλληνες.
-1	Ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	_
+1	Ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 2	πι	απού	ADP	_	_	3	case	_	_
 3	καρσί	καρσί	ADV	_	_	0	root	_	_
-4	κατ’	κάτ	DET	PronType=Ind	Typo=Yes	5	det	_	CorrectForm=κάτ’
-5	παμπόρια	παμπόρ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	nsubj	_	_
-6	μιγάλα	μιγάλους	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	5	amod	_	_
+4	κατ’	κάτ	DET	PronType=Ind	PronType=Ind|Typo=Yes	5	det	_	CorrectForm=κάτ’
+5	παμπόρια	παμπόρ	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	_
+6	μιγάλα	μιγάλους	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	5	amod	_	_
 7	γη	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art|Typo=Yes	8	det	_	CorrectForm=γοι|MGloss=euphonic-the|MSeg=γ-οι
 8	φιλ’	φίλους	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	appos	_	_
 9	μας	ιγώ	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod	_	_
@@ -3780,8 +3782,8 @@
 5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
 6	γιατί	γιατί	SCONJ	_	_	7	mark	_	_
 7	πουνεί	πουνώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
-8	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
-9	τσιφάλ’	τσιφάλ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	nsubj	_	_
+8	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	τσιφάλ’	τσιφάλ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
 10	ιμ	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod	_	MGloss=euphonic-my|MSeg=ι-μ|SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
@@ -3872,7 +3874,7 @@
 # text = Βασίλ’ς είνι μιγάλου ξ’νόμ’λου τσι έχ’ καβγάδις μι τ’ν γ’ναίκα τ’.
 # text_el = Ο Βασίλης είναι πολύ ξυνόμηλο (= αντιπαθητικός) και έχει (συχνούς) καβγάδες με τη γυναίκα του.
 1	Βασίλ’ς	Βασίλς	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-2	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	cop	_	_
+2	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	μιγάλου	μιγάλους	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	_
 4	ξ’νόμ’λου	ξνόμλου	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 5	τσι	τσι	CCONJ	_	_	6	cc	_	_
@@ -4083,24 +4085,24 @@
 # source = Anagnostopoulou, M. A. (2021). Thematiko Lexiko tis Lesviakis Dialektou [Thematic Dictionary of the Lesbos Dialect]. Mythos BOOKS, Mytilene.
 # text = Απάνου στου μήνα τ’ς είνι, κατάβαρ’, η τσ’λιά τ’ς έφτασι του λιμό τ’ς.
 # text_el = Επάνω στον μήνα της είναι. Ετοιμόγεννη. Η κοιλιά της έφτασε τον λαιμό της.
-1	Απάνου	πάνου	ADV	_	ExtPos=ADP	4	case	_	_
+1	Απάνου	πάνου	ADV	_	ExtPos=ADP	0	root	_	_
 2-3	στου	_	_	_	_	_	_	_	_
-2	σ	σι	ADP	_	_	1	fixed	_	_
+2	σ	σι	ADP	_	_	4	case	_	_
 3	του	του	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	μήνα	μήνας	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
+4	μήνα	μήνας	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	_
 5	τ’ς	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
-6	είνι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	cop	_	SpaceAfter=No
+6	είνι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
-8	κατάβαρ’	κατάβαρς	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	SpaceAfter=No
+8	κατάβαρ’	κατάβαρς	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	parataxis	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 10	η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	τσ’λιά	τσλιά	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
 12	τ’ς	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod	_	_
-13	έφτασι	φτάνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+13	έφτασι	φτάνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 14	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	λιμό	λιμός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
 16	τ’ς	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod	_	SpaceAfter=No
-17	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+17	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = written_corpus_233
 # source = Tsokarou-Mitsioni, E. (1998). Palies Istories ap tn Agiasiou [Old Stories from Agiasio], 2nd edition. Private Edition, Mytilene.
@@ -4129,7 +4131,7 @@
 4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 5	Μαριγώ	Μαριγώ	PROPN	_	Case=Voc|Gender=Fem|Number=Sing	3	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
-7	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	cop	_	_
+7	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	αλήθεια	αλήθεια	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 10	μα	μα	CCONJ	_	_	16	cc	_	_
@@ -4158,10 +4160,10 @@
 # text_el = Τι κάνει η Αγγελικούλα; Είναι καλά; Έλα, έλα εδώ κοντά μου, κορούλα μου.
 1	Τι	τι	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
 2	καν	κάνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	τ’	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
-4	Ατζιλικό	Ατζιλικό	PROPN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing	2	nsubj	_	SpaceAfter=No
+3	τ’	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	Ατζιλικό	Ατζιλικό	PROPN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Sing	2	nsubj	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
-6	είναι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	cop	_	_
+6	είναι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	καλά	καλά	ADV	_	_	2	parataxis	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 9	έλα	έρχουμι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Pass	2	parataxis	_	SpaceAfter=No
@@ -4195,7 +4197,7 @@
 13	μπγάδα	μπγάδα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	xcomp	_	_
 14	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	κόρφου	κόρφους	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
-16	ντ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod	_	Voicing=Voiced|SpaceAfter=No
+16	ντ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod	_	SpaceAfter=No|Voicing=Voiced
 17	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
 
 # sent_id = written_corpus_238
@@ -4248,7 +4250,7 @@
 3	απουβάλ’στσι	απουβάλλου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 5	ρίξα	ρίχνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
-6	ν-του	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	Voicing=Voiced|SpaceAfter=No
+6	ν-του	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No|Voicing=Voiced
 7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = written_corpus_242
@@ -4353,7 +4355,7 @@
 8	«	«	PUNCT	_	PunctType=Quot	12	punct	_	SpaceAfter=No
 9	Κύριοι	κύριους	ADJ	_	Case=Voc|Gender=Masc|Number=Plur	12	vocative	_	_
 10	γιου	ου	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	Δησέφ	Δησέφς	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	12	nsubj	_	CorrectCase=Nom|CorrectForm=Δησέφς
+11	Δησέφ	Δησέφς	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	CorrectCase=Nom|CorrectForm=Δησέφς
 12	πλει	πλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Act	7	ccomp	_	CorrectForm=πλεί
 13	100	100	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	14	nummod	_	_
 14	τσιφάλια	τσιφάλ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	12	obj	_	_
@@ -4570,10 +4572,10 @@
 # text_el = Ανέβηκε πάνω στο γιοφύρι, στάθηκε στα κάγκελα. «Τον γιο μου ψάχνω, βρε άνθρωποι, τον Περικλή, τον έχασα. Μήπως τον είδε κανείς, βρε άνθρωποι;»
 1	Ανέβτσει	ανιβαίνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin|Voice=Act	0	root	_	CorrectForm=Ανέβτσι
 2-3	πας	_	_	_	_	_	_	_	_
-2	πα	πάνου	ADV	_	ExtPos=ADP	5	case	_	_
-3	ς	σι	ADP	_	_	2	fixed	_	_
+2	πα	πάνου	ADV	_	_	1	advmod	_	_
+3	ς	σι	ADP	_	_	5	case	_	_
 4	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
-5	γιουφύρ	γιουφύρ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
+5	γιουφύρ	γιουφύρ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
 6	στάστσει	στέκουμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin|Voice=Pass	1	parataxis	_	CorrectForm=στάστσι
 7-8	στα	_	_	_	_	_	_	_	_
 7	σ	σι	ADP	_	_	9	case	_	_
@@ -4695,7 +4697,7 @@
 9	μάννα	μάνα	NOUN	_	Case=Voc|Gender=Fem|Number=Sing|Typo=Yes	1	vocative	_	CorrectForm=μάνα|SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 11	γιατί	γιατί	SCONJ	_	_	13	mark	_	_
-12	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	cop	_	_
+12	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 13	λύσσα	λύσσα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	advcl	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
@@ -4785,7 +4787,7 @@
 1	Του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
 2	στουμάχ’	στουμάχ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
 3	ιτ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	MGloss=euphonic-his|MSeg=ι-τ
-4	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	cop	_	_
+4	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 5	απ’	απού	ADP	_	_	7	case	_	_
 6	τ’ς	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 7	αχλάδις	αχλάδα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
@@ -4806,8 +4808,8 @@
 9-10	σκάνου	_	_	_	_	_	_	_	_
 9	σ	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	10	iobj	_	_
 10	κάνου	κάνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	5	ccomp	_	_
-11	που	που	SCONJ	_	ExtPos=SCONJ	14	mark	_	_
-12	να	να	SCONJ	_	_	11	fixed	_	_
+11	που	που	SCONJ	_	_	14	mark	_	_
+12	να	να	SCONJ	_	_	14	mark	_	_
 13	μη	μην	PART	_	Polarity=Neg	14	advmod	_	_
 14	θέλσ	θέλου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Act	10	advcl	_	CorrectForm=θέλς
 15	να	να	SCONJ	_	_	16	mark	_	_
@@ -4818,7 +4820,7 @@
 # source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Είνι καμιάν ώρα που πήγαν στου γυαλό γ’ απιταλ’ίδις.
 # text_el = Είναι καμιά ώρα που πήγαν στον γυαλό για πεταλίδες.
-1	Είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	cop	_	_
+1	Είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 2	καμιάν	κανένας	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
 3	ώρα	ώρα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
 4	που	που	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	5	obl	_	_
@@ -4843,7 +4845,7 @@
 5	σ	σι	ADP	_	ExtPos=ADV	8	case	_	_
 6	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
 7	τέλους	τέλους	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	compound:redup	_	_
-8	τέλους	τέλους	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	obl	_	_
+8	τέλους	τέλους	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
 9	πήρι	παίρνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
 10	τν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	απόλια	απόλια	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
@@ -4860,7 +4862,7 @@
 4	κούτιλου	κούτιλου	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
 5	τ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod	_	_
 6	κι	τσι	CCONJ	_	_	8	cc	_	PhonVariant=Deaffricated
-7	είν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	cop	_	_
+7	είν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	απόπυρους	απόπυρους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
@@ -4881,10 +4883,10 @@
 # source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ήνταν τόσου ιρουτιβμένους π ακγόνταν ι γ’-απόχτπους ιτ.
 # text_el = Ήταν τόσο ερωτευμένος που ακουγόταν ο παλμός του.
-1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	_
+1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 2	τόσου	τόσου	ADV	_	_	3	advmod	_	_
 3	ιρουτιβμένους	ιρουτιβμένους	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
-4	π	π	SCONJ	_	_	5	mark	_	_
+4	π	που	SCONJ	_	_	5	mark	_	_
 5	ακγόνταν	ακούγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	advcl	_	_
 6	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	γ’-απόχτπους	απόχτπους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	MGloss=euphonic-beat|MSeg=γ’-απόχτπους
@@ -4980,7 +4982,7 @@
 6	αχ’λαρά	αχλαράς	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	_
 7	τσι	τσι	CCONJ	_	_	9	cc	_	_
 8	του	ιγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
-9	μπαντρεύτσις	παντρεύου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	Voicing=Voiced|SpaceAfter=No
+9	μπαντρεύτσις	παντρεύου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	SpaceAfter=No|Voicing=Voiced
 10	;	;	PUNCT	_	PunctType=Qest	2	punct	_	_
 
 # sent_id = written_corpus_282
@@ -4998,7 +5000,7 @@
 9	μπατέρα	πατέρας	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Voicing=Voiced
 10	μ	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod	_	_
 11	πού	που	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	13	nsubj	_	_
-12	νι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	13	cop	_	_
+12	νι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	_
 13	κατάκ’τους	κατάκτους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	acl:relcl	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
@@ -5009,11 +5011,11 @@
 1	Έφαγι	τρώγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	μια	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	πιτριγιά	πιτριγιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
-4	πά	πάνου	ADV	_	ExtPos=ADP	7	case	_	_
+4	πά	πάνου	ADV	_	_	1	advmod	_	_
 5-6	στου	_	_	_	_	_	_	_	_
-5	σ	σι	ADP	_	_	4	fixed	_	_
+5	σ	σι	ADP	_	_	7	case	_	_
 6	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
-7	τσιφάλ’	τσιφάλ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
+7	τσιφάλ’	τσιφάλ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
 8	ιτ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod	_	MGloss=euphonic-his|MSeg=ι-τ
 9	τσ	τσι	CCONJ	_	_	10	cc	_	_
 10	έκανι	κάνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
@@ -5045,7 +5047,7 @@
 # text_el = Οι θέρμες που έχει στη Θερμή κάνουν καλό σε πολλές αρρώστιες.
 1	Τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	_
 2	θέρμα	θέρμα	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
-3	π	π	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	4	obj	_	_
+3	π	που	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	4	obj	_	_
 4	όχ’	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
 5	σ	σι	ADP	_	_	6	case	_	_
 6	Θιρμή	Θιρμή	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
@@ -5078,7 +5080,7 @@
 # text_el = Οι θρούμπες είναι καλές αλλά δεν βγάζουν πολύ λάδι.
 1	Οι	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	θρούμπις	θρούμπα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
-3	είνι	είμι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	cop	_	_
+3	είνι	είμι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	καλές	καλός	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
 5	αλλά	αλλά	CCONJ	_	_	7	cc	_	_
 6	έ	δεν	PART	_	Polarity=Neg	7	advmod	_	_
@@ -5108,7 +5110,7 @@
 # source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ήνταν αβανουκαμένος αμ τα μκράτα τ τσι πέθανι μ αυτό του γκαμό.
 # text_el = Ήταν συκοφαντημένος από τα μικράτα του και πέθανε με αυτόν τον καημό.
-1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	cop	_	_
+1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
 2	αβανουκαμένος	αβανουκαμένος	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
 3	αμ	απού	ADP	_	_	5	case	_	_
 4	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	_	_
@@ -5119,7 +5121,7 @@
 9	μ	μι	ADP	_	_	12	case	_	_
 10	αυτό	αυτός	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
 11	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	γκαμό	καμός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	Voicing=Voiced|SpaceAfter=No
+12	γκαμό	καμός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No|Voicing=Voiced
 13	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = written_corpus_290
@@ -5167,7 +5169,7 @@
 # text_el = Τη μέρα που γιορτάζει ο Άγιος Ραφαήλ τα κάνει τα θαύματά του.
 1	Τ	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	μέρα	μέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
-3	π	π	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	4	obl	_	_
+3	π	που	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	4	obl	_	_
 4	γιουρτάζ	γιουρτάζου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
 5	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	γ’-Άγιους	άγιους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	MGloss=euphonic-saint|MSeg=γ’-Άγιους
@@ -5256,7 +5258,7 @@
 2	ούλις	ούλους	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	5	det	_	_
 3	τούτις	τούτους	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	_
 4	τς	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	φασαρίγ’ις	φασαρίγια	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+5	φασαρίγ’ις	φασαρίγια	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obl	_	_
 6	άφσα	αφήνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 7	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
 8	σπίτ	σπίτ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
@@ -5268,7 +5270,7 @@
 # text = Άθριπους είνι τούτουνας, γιά ζο;
 # text_el = Άνθρωπος είναι αυτός ή ζώο;
 1	Άθριπους	άνθρουπους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-2	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	cop	_	_
+2	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	τούτουνας	τούτους	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 5	γιά	για	CCONJ	_	_	6	cc	_	_
@@ -5279,11 +5281,11 @@
 # source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Όξου αμ ν Αγιά Βαρβάρα καθόνταν δυο ζτγιάν’ τσι γυρεύγαν αλιμουσύν’.
 # text_el = Έξω από την Αγιά Βαρβάρα κάθοντα δύο ζητιάνοι και γύρευαν ελεημοσύνη.
-1	Όξου	όξου	ADV	_	_	5	case	_	_
-2	αμ	απού	ADP	_	_	1	fixed	_	_
+1	Όξου	όξου	ADV	_	_	6	advmod	_	_
+2	αμ	απού	ADP	_	_	5	case	_	_
 3	ν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 4	Αγιά	άγιους	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
-5	Βαρβάρα	Βαρβάρα	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+5	Βαρβάρα	Βαρβάρα	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	_
 6	καθόνταν	κάθουμι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 7	δυο	δύου	NUM	_	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	8	nummod	_	_
 8	ζτγιάν’	ζτγιάνους	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
@@ -5339,11 +5341,11 @@
 6	αναγκαίου	αναγκαίους	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	8	obj	_	_
 7	τού	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
 8	χαν	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-9	όξου	όξου	ADV	_	_	12	case	_	_
+9	όξου	όξου	ADV	_	_	8	advmod	_	_
 10-11	σν	_	_	_	_	_	_	_	_
-10	σ	σι	ADP	_	_	9	fixed	_	_
+10	σ	σι	ADP	_	_	12	case	_	_
 11	ν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	αυλ’ή	αυλή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+12	αυλ’ή	αυλή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 # sent_id = written_corpus_304
@@ -5383,9 +5385,9 @@
 # source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Τί ανιβρουχιά είν αυτήν’ πό χουμι φέτους;
 # text_el = Τι αναβροχιά είναι αυτή που έχουμε φέτος;
-1	Τί	τι	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	2	det	_	_
+1	Τί	τι	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	det	_	_
 2	ανιβρουχιά	ανιβρουχιά	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-3	είν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	_
+3	είν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 4	αυτήν’	αυτός	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	nsubj	_	_
 5	πό	π	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	6	obj	_	_
 6	χουμι	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
@@ -5441,7 +5443,7 @@
 7	ντ	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	βρουμούσα	βρουμούσα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
 9	βρώμσι	βρωμίζου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-10	ούλ’	ούλους	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	12	det	_	_
+10	ούλ’	ούλους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	12	det	_	_
 11	η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	κάμαρα	κάμαρα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
@@ -5468,7 +5470,7 @@
 3	ένα	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
 4	δν’είσμου	δνείσμου	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
 5	πού	π	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	nsubj	_	_
-6	νταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_
+6	νταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
 7	ούλου	ούλους	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	8	det	_	_
 8	θκό	δκός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	acl:relcl	_	_
 9	τ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod	_	SpaceAfter=No
@@ -5514,8 +5516,8 @@
 # text = Τούτου του μουρό ζαμπούν’κου έ σι φαίνιτι;
 # text_el = Αυτό το μωρό ασθενικό δεν σου φαίνεται;
 1	Τούτου	τούτους	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	_
-2	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
-3	μουρό	μουρό	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	nsubj	_	_
+2	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	μουρό	μουρό	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
 4	ζαμπούν’κου	ζαμπούν’κους	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	7	xcomp	_	_
 5	έ	δεν	PART	_	Polarity=Neg	7	advmod	_	_
 6	σι	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
@@ -5593,7 +5595,7 @@
 1	Του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
 2	μάτ	μάτ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
 3	ιμ	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	MGloss=euphonic-my|MSeg=ι-μ
-4	είνι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	cop	_	_
+4	είνι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	κότσνου	κότσνους	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 7	μι	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
@@ -5616,11 +5618,11 @@
 5	μάθημα	μάθημα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
 6	μι	μι	ADP	_	_	8	case	_	_
 7	τόσοιν’	τόσουνας	DET	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	_
-8	κατμάδις	κατμάδα	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	_
+8	κατμάδις	κατμάς	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	_
 9	πό	π	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	10	obj	_	_
 10	χ’ς	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
 11	σ	σι	ADP	_	_	12	case	_	_
-12	ντάξ	τάξ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	Voicing=Voiced|SpaceAfter=No
+12	ντάξ	τάξ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No|Voicing=Voiced
 13	;	;	PUNCT	_	PunctType=Qest	2	punct	_	_
 
 # sent_id = written_corpus_321
@@ -5663,9 +5665,9 @@
 # source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ήνταν πού νταν κουλουκάτσ τουν απουτέλειουσι τσ η γ’-αρρώστια.
 # text_el = Ήταν που ήταν μικρόσωμος, τον αποτέλειωσε η αρρώστια.
-1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	cop	_	_
+1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 2	πού	π	ADV	_	PronType=Int	1	fixed	_	_
-3	νταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	fixed	_	_
+3	νταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	fixed	_	_
 4	κουλουκάτσ	κουλουκάτσ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	advcl	_	_
 5	τουν	ιγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
 6	απουτέλειουσι	απουτιλειώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5695,11 +5697,11 @@
 3	σ	σι	ADP	_	_	5	case	_	_
 4	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	Μουσχουν’ήσ	Μουσχουνήσ	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
-6	κουντά	κουντά	ADV	_	_	10	case	_	_
-7	σ	σι	ADP	_	_	6	fixed	_	_
+6	κουντά	κουντά	ADV	_	_	12	advmod	_	_
+7	σ	σι	ADP	_	_	10	case	_	_
 8	ούλα	ούλους	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	10	det	_	_
 9	τ	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	_
-10	άλλα	άλλους	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	12	obl	_	_
+10	άλλα	άλλους	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	6	obl	_	_
 11	μ	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obl	_	_
 12	αρέσαν	αρέσου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 13	κι	τσι	CCONJ	_	_	15	cc	_	PhonVariant=Deaffricated
@@ -5771,9 +5773,9 @@
 2	θα	θα	AUX	_	Tense=Fut	4	aux	_	_
 3	του	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 4	βάλ’	βάζου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
-5	απά	απάνου	ADV	_	_	7	case	_	_
-6	σ	σι	ADP	_	_	5	fixed	_	_
-7	μπαλάντζα	μπαλάντζα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
+5	απά	απάνου	ADV	_	_	4	advmod	_	_
+6	σ	σι	ADP	_	_	7	case	_	_
+7	μπαλάντζα	μπαλάντζα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
 8	να	να	SCONJ	_	_	10	mark	_	_
 9	του	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
 10	ζγιάσ	ζγιάζου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	advcl	_	SpaceAfter=No
@@ -5789,14 +5791,14 @@
 4	τρεις	τρεις	NUM	_	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	6	nummod	_	_
 5	ακόμα	ακόμα	ADV	_	_	4	advmod	_	_
 6	μπαμπακούλις	μπαμπακούλα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
-7	για	για	ADP	_	_	9	mark	_	_
+7	για	για	ADP	_	ExtPos=SCONJ	9	mark	_	_
 8	να	να	SCONJ	_	_	7	fixed	_	_
 9	μπουρέγ’ς	μπουρώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
 10	να	να	SCONJ	_	_	11	mark	_	_
 11	τιλει’ώγ’ς	τιλειώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	9	xcomp	_	_
 12	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	τζιλέ	τζιλές	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
-14	που	π	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	15	obj	_	_
+14	που	που	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	15	obj	_	_
 15	πλέκ’ς	πλέκου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	SpaceAfter=No
 16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
@@ -5807,10 +5809,10 @@
 1	Βάλι	βάζου	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 2	κουμμάτ	κουμμάτ	ADV	_	_	1	advmod	_	_
 3	σπίρτου	σπίρτου	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	_
-4	απά	απάνου	ADV	_	_	7	case	_	_
-5	σι	σι	ADP	_	_	4	fixed	_	_
+4	απά	απάνου	ADV	_	_	1	advmod	_	_
+5	σι	σι	ADP	_	_	7	case	_	_
 6	μια	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	μπαμπακούρα	μπαμπάκ	NOUN	_	Case=Acc|Degree=Dim|Gender=Fem|Number=Sing	1	obl	_	_
+7	μπαμπακούρα	μπαμπάκ	NOUN	_	Case=Acc|Degree=Dim|Gender=Fem|Number=Sing	4	obl	_	_
 8	κι	τσι	CCONJ	_	_	9	cc	_	PhonVariant=Deaffricated
 9-10	βάλτου	_	_	_	_	_	_	_	_
 9	βάλ	βάζου	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	1	conj	_	_
@@ -5862,7 +5864,7 @@
 7	γιος	γιος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 8	ιμ	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod	_	MGloss=euphonic-my|MSeg=ι-μ
 9	τσ	τσι	CCONJ	_	_	11	cc	_	_
-10	είνι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	cop	_	_
+10	είνι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	νιος	νιος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
 12	!	!	PUNCT	_	PunctType=Excl	4	punct	_	_
 
@@ -5897,8 +5899,8 @@
 7	σίδιρου	σίδιρου	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
 8	τσι	τσι	CCONJ	_	_	9	cc	_	_
 9	κόπτσι	κόβου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
-10	μια	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	παρτσαφλάδα	παρτσαφλάδα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
+10	μια	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	παρτσαφλάδα	παρτσαφλάδα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
 12	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = written_corpus_338
@@ -5909,7 +5911,7 @@
 2	αυγή	αυγή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
 4	αχάραγα	αχάραγα	ADV	_	_	2	appos	_	_
-5	π	π	SCONJ	_	_	6	mark	_	_
+5	π	που	SCONJ	_	_	6	mark	_	_
 6	σκώνουμι	σκώνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	7	advcl	_	_
 7	βήχου	βήχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	σα	σαν	ADV	_	_	10	case	_	_
@@ -5970,9 +5972,9 @@
 3	έβγαλι	βγάζου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	ρουσόλ’	ρουσόλ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
-6	τσείνουνα	τσείνους	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	_
-7	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
-8	μουρό	μουρό	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	nsubj	_	SpaceAfter=No
+6	τσείνουνα	τσείνους	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	_
+7	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	μουρό	μουρό	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = written_corpus_342
@@ -5980,8 +5982,8 @@
 # text = Πέταξι μια σπέθα αμ του μαγκάλ’, άρπαξι φουτιά του σπίτ.
 # text_el = Πέταξε μια σπίθα από το μαγκάλι και άρπαξε φωτιά το σπίτι.
 1	Πέταξι	πιτώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	μια	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	σπέθα	σπέθα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	nsubj	_	_
+2	μια	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	σπέθα	σπέθα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
 4	αμ	απού	ADP	_	_	6	case	_	_
 5	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
 6	μαγκάλ’	μαγκάλ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No
@@ -6052,7 +6054,7 @@
 1	Άντι	άντι	INTJ	_	_	0	root	_	_
 2	μουρή	μουρός	INTJ	_	Case=Voc|Gender=Fem|Number=Sing	3	discourse	_	_
 3	τσόλα	τσόλα	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	1	vocative	_	_
-4	που	π	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	6	nsubj	_	_
+4	που	που	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	6	nsubj	_	_
 5	μι	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obl	_	_
 6	σήκουσις	σηκώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
 7	τσιφάλ’	τσιφάλ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	SpaceAfter=No
@@ -6121,7 +6123,7 @@
 2	Κώστας	Κώστας	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 3	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	ρουμνιουράφτς	ρουμνιουράφτς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
-5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	cop	_	_
+5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 6	γείτουνάς	γείτουνας	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 7	ιμ	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
@@ -6135,7 +6137,7 @@
 2	σ	σι	ADP	_	_	4	case	_	_
 3	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
 4	ράχτα	ράχτου	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	obl	_	_
-5	είνι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	cop	_	_
+5	είνι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	χτισμένου	χτισμένους	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
 7	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
 8	σπίτ	σπίτ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	_
@@ -6168,7 +6170,7 @@
 4	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	παντό	παντό	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
 6	σ	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod	_	_
-7	για	για	ADP	_	_	10	mark	_	_
+7	για	για	ADP	_	ExtPos=SCONJ	10	mark	_	_
 8	να	να	SCONJ	_	_	7	fixed	_	_
 9	του	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
 10	φαρδύνουμι	φαρδύνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	SpaceAfter=No
@@ -6230,7 +6232,7 @@
 1	Πρόσεξε	προυσέχου	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 2	όμως	όμους	CCONJ	_	_	1	cc	_	_
 3	πώς	πώς	ADV	_	PronType=Int	1	advcl	_	_
-4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	SpaceAfter=No
+4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	SpaceAfter=No
 5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = oral_corpus_5
@@ -6278,8 +6280,8 @@
 # text_el = Πώς γίνεται το κατίκι;
 1	Τίλια	τίλιγια	ADV	_	PronType=Int	2	advmod	_	_
 2	γίνται	γίνουμι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-3	το	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
-4	κατίκ	κατίκ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	nsubj	_	SpaceAfter=No
+3	το	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	κατίκ	κατίκ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	SpaceAfter=No
 5	;	;	PUNCT	_	PunctType=Qest	2	punct	_	_
 
 # sent_id = oral_corpus_9
@@ -6287,8 +6289,8 @@
 # text = Μπαντρεύκασ’ μερικές κουπέλες απ’ ευτές που λέγου.
 # text_el = Παντρεύτηκαν μερικές κοπέλες από αυτές που λέω.
 1	Μπαντρεύκασ’	παντρεύγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Voicing=Voiced
-2	μερικές	μιρκός	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
-3	κουπέλες	κουπέλα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	nsubj	_	_
+2	μερικές	μιρκός	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	κουπέλες	κουπέλα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	_
 4	απ’	απού	ADP	_	_	5	case	_	_
 5	ευτές	εύτους	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	3	nmod	_	_
 6	που	που	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	7	obl	_	_
@@ -6302,7 +6304,7 @@
 1	Άρα	άρα	CCONJ	_	_	5	cc	_	_
 2	το	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	χωριό	χουριό	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
-4	ήταν	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	cop	_	_
+4	ήταν	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 5	μσό	μσός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 6	και	τσι	CCONJ	_	_	7	cc	_	PhonVariant=Deaffricated
 7	μσό	μσός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	SpaceAfter=No
@@ -6314,7 +6316,7 @@
 # text_el = Από που ήταν ο άλλος;
 1	Από	απού	ADP	_	_	2	case	_	_
 2	πού	που	ADV	_	PronType=Int	0	root	_	_
-3	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	cop	_	Voicing=Voiced
+3	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	Voicing=Voiced
 4	γη	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	άλλος	άλλους	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	SpaceAfter=No
 6	;	;	PUNCT	_	PunctType=Qest	2	punct	_	_
@@ -6338,8 +6340,8 @@
 # source = Recording (Date:2023-2024, Location:Mesotopos, Gender:Male)
 # text = Λίγου που ήξερα.
 # text_el = Λίγο που ήξερα.
-1	Λίγου	λίγου	ADV	_	ExtPos=ADV	3	advmod	_	_
-2	που	που	SCONJ	_	_	1	fixed	_	_
+1	Λίγου	λίγου	ADV	_	_	3	advmod	_	_
+2	που	που	SCONJ	_	_	3	mark	_	_
 3	ήξερα	ξέρου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
@@ -6371,7 +6373,7 @@
 # source = Recording (Date:2023-2024, Location:Eressos, Gender:Male)
 # text = Είναι τραγούδ’.
 # text_el = Είναι τραγούδι.
-1	Είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	_
+1	Είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	τραγούδ’	τραγούδ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
@@ -6416,7 +6418,7 @@
 # text = Άμα ήταν μισμέρ’, η μάνα μ’ κι ο πατέρας μ’ τσμούντασ’ πάν’ στου σοφά.
 # text_el = Άμα ήταν μεσημέρι, η μάνα μου και ο πατέρας μου κοιμούνταν πάνω στον σοφά.
 1	Άμα	άμα	SCONJ	_	_	3	mark	_	_
-2	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	_
+2	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 3	μισμέρ’	μισμέρ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 5	η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -6427,11 +6429,11 @@
 10	πατέρας	πατέρας	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
 11	μ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod	_	_
 12	τσμούντασ’	τσμούμι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-13	πάν’	πάνου	ADV	_	ExtPos=ADP	16	case	_	_
+13	πάν’	πάνου	ADV	_	_	12	advmod	_	_
 14-15	στου	_	_	_	_	_	_	_	_
-14	σ	σι	ADP	_	_	13	fixed	_	_
+14	σ	σι	ADP	_	_	16	case	_	_
 15	του	του	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	σοφά	σουφάς	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+16	σοφά	σουφάς	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 17	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
 
 # sent_id = oral_corpus_20
@@ -6478,7 +6480,7 @@
 1	Τι	τι	ADV	_	PronType=Int	2	advmod	_	_
 2	όμορφα	όμουρφους	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
 3	που	που	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	2	acl:relcl	_	_
-4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	Voicing=Voiced|SpaceAfter=No
+4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	SpaceAfter=No|Voicing=Voiced
 5	!	!	PUNCT	_	PunctType=Excl	2	punct	_	_
 
 # sent_id = oral_corpus_23
@@ -6486,7 +6488,7 @@
 # text = Καλό ήνταν φτό, ναι.
 # text_el = Καλό ήταν αυτό, ναι.
 1	Καλό	καλός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-2	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	cop	_	Voicing=Voiced
+2	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	Voicing=Voiced
 3	φτό	εύτους	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 5	ναι	ναι	INTJ	_	Polarity=Pos	1	discourse	_	SpaceAfter=No
@@ -6529,7 +6531,7 @@
 8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 9	γιατί	γιατί	SCONJ	_	_	12	mark	_	_
 10	‘γού	ιγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
-11	είμαι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	12	cop	_	_
+11	είμαι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	_
 12	ορφανή	ουρφανός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	advcl	_	SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
@@ -6579,7 +6581,7 @@
 22	δίπλα	δίπλα	ADV	_	_	23	advmod	_	_
 23	βάζενε	βάζου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
 24	ντο	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
-25	γκαρπό	καρπός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	Voicing=Voiced|SpaceAfter=No
+25	γκαρπό	καρπός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	SpaceAfter=No|Voicing=Voiced
 26	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 # sent_id = oral_corpus_29
@@ -6619,14 +6621,14 @@
 # text_el = Ένας τσοπάνης είμαι.
 1	Ένας	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	τζουμπάνς	τσουπάνς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Voicing=Voiced
-3	είμαι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	SpaceAfter=No
+3	είμαι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	SpaceAfter=No
 4	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = oral_corpus_33
 # source = Recording (Date:2023-2024, Location:Chidira, Gender:Female)
 # text = Ήνταν από ‘δώ η οικουγένειά τ’.
 # text_el = Ήταν από 'δώ η οικογένειά του.
-1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	Voicing=Voiced
+1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	Voicing=Voiced
 2	από	απού	ADP	_	_	3	case	_	_
 3	‘δώ	ιδώ	ADV	_	_	0	root	_	_
 4	η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -6667,7 +6669,7 @@
 4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 5	τον	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Ταξιάρχ’	Ταξιάρχς	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	appos	_	_
-7	είν’	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	cop	_	_
+7	είν’	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 8	το	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
 9	πιο	πιο	ADV	_	Degree=Cmp	10	advmod	_	_
 10	παλιό	παλιός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	12	amod	_	_
@@ -6683,7 +6685,7 @@
 2	πρόεδρος	πρόιδρους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 3	τότε	τότι	ADV	_	_	2	acl:relcl	_	_
 4	που	που	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	_
-5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	Voicing=Voiced
+5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	Voicing=Voiced
 6	είπε	λέγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 7	δεν	δεν	PART	_	Polarity=Neg	9	advmod	_	_
 8	θα	θα	AUX	_	Tense=Fut	9	aux	_	_
@@ -6742,21 +6744,21 @@
 # text_el = Αν δεν ήταν καλή, αφού είναι δικό μου το σπίτι, έξω από την πόρτα.
 1	Άμα	άμα	SCONJ	_	_	4	mark	_	_
 2	εν	δεν	PART	_	Polarity=Neg	4	advmod	_	_
-3	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	cop	_	Voicing=Voiced
-4	καλή	καλός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	16	advcl	_	SpaceAfter=No
+3	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	Voicing=Voiced
+4	καλή	καλός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 6	αφού	αφού	SCONJ	_	_	8	mark	_	_
-7	είν’	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	cop	_	_
-8	θκο	δκος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	16	advcl	_	_
+7	είν’	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	θκο	δκος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	13	advcl	_	_
 9	μ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod	_	_
-10	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
-11	σπίκ’	σπίτ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	nsubj	_	PhonVariant=Palatalized|SpaceAfter=No
-12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
-13	όξου	όξου	ADV	_	ExtPos=ADP	16	case	_	_
-14	απ’	απού	ADP	_	_	13	fixed	_	_
+10	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	σπίκ’	σπίτ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	PhonVariant=Palatalized|SpaceAfter=No
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	όξου	όξου	ADV	_	_	0	root	_	_
+14	απ’	απού	ADP	_	_	16	case	_	_
 15	ντ’	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	μπόρτα	πόρτα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	Voicing=Voiced|SpaceAfter=No
-17	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
+16	μπόρτα	πόρτα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No|Voicing=Voiced
+17	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
 
 # sent_id = oral_corpus_42
 # source = Recording (Date:2023-2024, Location:Chidira, Gender:Female)
@@ -6822,10 +6824,10 @@
 3	εν	δεν	PART	_	Polarity=Neg	4	advmod	_	_
 4	είχε	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	τραπέζ’	τραπέζ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	SpaceAfter=No
-6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
-7	πάν’	πάνου	ADV	_	ExtPos=ADP	9	case	_	_
-8	σου	σι	ADP	_	_	7	fixed	_	_
-9	τραπέζ’	τραπέζ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+6	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+7	πάν’	πάνου	ADV	_	_	11	advmod	_	_
+8	σου	σι	ADP	_	_	9	case	_	_
+9	τραπέζ’	τραπέζ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
 10	να	να	AUX	_	_	11	aux	_	_
 11	φαν	τρώγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No
 12	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
@@ -6855,11 +6857,11 @@
 7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 8	δεν	δεν	PART	_	Polarity=Neg	9	advmod	_	_
 9	ζούσε	ζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	_
-10	μες	μέσα	ADV	_	ExtPos=ADP	13	case	_	_
+10	μες	μέσα	ADV	_	_	9	advmod	_	_
 11-12	στα	_	_	_	_	_	_	_	_
-11	σ	σι	ADP	_	_	10	fixed	_	_
+11	σ	σι	ADP	_	_	13	case	_	_
 12	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	13	det	_	_
-13	σπίκια	σπίτ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	obl	_	SpaceAfter=No
+13	σπίκια	σπίτ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	obl	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = oral_corpus_48
@@ -6967,11 +6969,11 @@
 1	Πέσαν	πέφτου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	_	_
 3	κλαδιά	κλαδ	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
-4	πάν’	πάνου	ADV	_	ExtPos=ADP	7	case	_	_
+4	πάν’	πάνου	ADV	_	_	1	advmod	_	_
 5-6	στς	_	_	_	_	_	_	_	_
-5	σ	σι	ADP	_	_	4	fixed	_	_
+5	σ	σι	ADP	_	_	7	case	_	_
 6	τς	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
-7	αμγδαλιές	αμγδαλιά	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
+7	αμγδαλιές	αμγδαλιά	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = oral_corpus_57
@@ -6982,7 +6984,7 @@
 2	τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	_	_
 3	ρούχα	ρούχου	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
 4	χειρουποίητα	χειρουποίητους	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
-5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	cop	_	SpaceAfter=No
+5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	SpaceAfter=No
 6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = oral_corpus_58
@@ -7061,10 +7063,10 @@
 # text = Τότ’ ύστερα απ’ το 1912.
 # text_el = Τότε, ύστερα από το 1912.
 1	Τότ’	τότι	ADV	_	_	0	root	_	_
-2	ύστερα	ύστιρα	ADV	_	ExtPos=ADP	5	case	_	_
-3	απ’	απού	ADP	_	_	2	fixed	_	_
+2	ύστερα	ύστιρα	ADV	_	_	1	appos	_	_
+3	απ’	απού	ADP	_	_	5	case	_	_
 4	το	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
-5	1912	1912	NUM	_	NumType=Card	1	obl	_	SpaceAfter=No
+5	1912	1912	NUM	_	NumType=Card	2	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = oral_corpus_64
@@ -7108,7 +7110,7 @@
 # source = Recording (Date:2023-2024, Location:Parakoila, Gender:Female)
 # text = Ήταν φτουχή οικουγένεια, αλλά ζούσαν αγαπημένα.
 # text_el = Ήταν φτωχή οικογένεια, αλλά ζούσαν αγαπημένα.
-1	Ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	_
+1	Ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 2	φτουχή	φτουχός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	οικουγένεια	κουγένεια	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
@@ -7266,7 +7268,7 @@
 # source = Recording (Date:2023-2024, Location:Eressos, Gender:Male)
 # text = Είναι φτα τα παιδιά που τα ονόματά ντουν τα πήρεσ’ απ’ τα χωριά ντουν.
 # text_el = Είναι αυτά τα παιδιά που τα ονόματά τους τα πήραν από τα χωριά τους.
-1	Είναι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	cop	_	_
+1	Είναι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 2	φτα	εύτους	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	4	det	_	_
 3	τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
 4	παιδιά	πιδί	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
@@ -7279,7 +7281,7 @@
 11	απ’	απού	ADP	_	_	13	case	_	_
 12	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	13	det	_	_
 13	χωριά	χουριό	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	obl	_	_
-14	ντουν	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod	_	Voicing=Voiced|SpaceAfter=No
+14	ντουν	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod	_	SpaceAfter=No|Voicing=Voiced
 15	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = oral_corpus_80
@@ -7289,10 +7291,10 @@
 1	Όχι	όχ	INTJ	_	Polarity=Neg	4	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
 3	ε	δεν	PART	_	Polarity=Neg	4	advmod	_	_
-4	μπάγω	πγαίνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Voicing=Voiced|SpaceAfter=No
+4	μπάγω	πγαίνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Voicing=Voiced
 5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
 6	ε	δεν	PART	_	Polarity=Neg	7	advmod	_	_
-7	μπάγω	πγαίνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	Voicing=Voiced|SpaceAfter=No
+7	μπάγω	πγαίνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No|Voicing=Voiced
 8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = oral_corpus_81
@@ -7300,7 +7302,7 @@
 # text = Ευχαριστημέν’ είμ’.
 # text_el = Ευχαριστημένη είμαι.
 1	Ευχαριστημέν’	ιυχαριστμένους	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
-2	είμ’	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	cop	_	SpaceAfter=No
+2	είμ’	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = oral_corpus_82
@@ -7310,7 +7312,7 @@
 1	Γιατί	γιατί	ADV	_	PronType=Int	4	advmod	_	_
 2	να	να	AUX	_	_	4	aux	_	_
 3	μη	μην	PART	_	Polarity=Neg	4	advmod	_	_
-4	γκάνω	κάνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Voicing=Voiced|SpaceAfter=No
+4	γκάνω	κάνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Voicing=Voiced
 5	;	;	PUNCT	_	PunctType=Qest	4	punct	_	_
 
 # sent_id = oral_corpus_83
@@ -7338,7 +7340,7 @@
 3	γεννήθκα	γιννώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
 5	άρα	άρα	CCONJ	_	_	7	cc	_	_
-6	είμαι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	7	cop	_	_
+6	είμαι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	69	69	NUM	_	NumType=Card	3	parataxis	_	_
 8	προς	προς	ADP	_	_	10	case	_	_
 9	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	_
@@ -7406,11 +7408,11 @@
 10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 11	στρώσε	στρώνου	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	9	conj	_	_
 12	τ’	ιγώ	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
-13	μες	μέσα	ADV	_	ExtPos=ADV	16	case	_	_
+13	μες	μέσα	ADV	_	_	9	advmod	_	_
 14-15	στον	_	_	_	_	_	_	_	_
-14	σ	σι	ADP	_	_	13	fixed	_	_
+14	σ	σι	ADP	_	_	16	case	_	_
 15	τον	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	καλοτσαιρνό	καλοτσιρνός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
+16	καλοτσαιρνό	καλοτσιρνός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	_
 17	να	να	SCONJ	_	_	18	mark	_	_
 18	τσμηθεί	τσμούμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	9	advcl	_	SpaceAfter=No
 19	»	»	PUNCT	_	PunctType=Quot	1	punct	_	SpaceAfter=No
@@ -7612,7 +7614,7 @@
 # text = Φτος ήταν κουμμάτ’ παραπάνου.
 # text_el = Αυτός ήταν λίγο παραπάνω.
 1	Φτος	εύτους	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
-2	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	cop	_	_
+2	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 3	κουμμάτ’	κουμμάτ	ADV	_	_	4	advmod	_	_
 4	παραπάνου	παραπάνου	ADV	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
@@ -7626,7 +7628,7 @@
 3	Άγρας	Άγρα	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
 4	τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	_	_
 5	μέρ’	μέρους	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	8	obl	_	_
-6	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_
+6	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
 7	αρχαία	αρχαίους	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	_
 8	Ερεσσό	Ερεσσό	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
@@ -7644,10 +7646,10 @@
 7	έπρεπ	πρέπ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 8	να	να	SCONJ	_	_	9	mark	_	_
 9	σκωθούμε	σκώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass	7	csubj	_	_
-10	τς	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-11	δυο	δύου	NUM	_	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	13	nummod	_	_
+10	τς	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	δυο	δύου	NUM	_	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	9	obl	_	_
 12	γη	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	MGloss=euphonic-the|MSeg=γ-η
-13	ούρα	ούρα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	obl	_	_
+13	ούρα	ούρα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nmod	_	_
 14	καμιά	κανένας	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Neg	15	det	_	_
 15	φουρά	φουρά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	_
 16	μι	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	17	obj	_	_
@@ -7692,7 +7694,7 @@
 7	κρακήσαμε	κρατώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	PhonVariant=Palatalized
 8	και	τσι	CCONJ	_	_	10	cc	_	PhonVariant=Deaffricated
 9	κη	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	μπροφορά	προυφουρά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Voicing=Voiced|SpaceAfter=No
+10	μπροφορά	προυφουρά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No|Voicing=Voiced
 11	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 12	απ’	απού	ADP	_	_	14	case	_	_
 13	τον	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -7722,7 +7724,7 @@
 # text = Απάνω ήταν δυο κάμαρες και το χαγιάκ’.
 # text_el = Επάνω ήταν δύο υπνοδωμάτιο και το χαγιάτι.
 1	Απάνω	απάνου	ADV	_	_	0	root	_	_
-2	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	cop	_	_
+2	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	_
 3	δυο	δύου	NUM	_	Case=Nom|Gender=Fem|Number=Plur|NumType=Card	4	nummod	_	_
 4	κάμαρες	κάμαρα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	_
 5	και	τσι	CCONJ	_	_	7	cc	_	PhonVariant=Deaffricated
@@ -7785,7 +7787,7 @@
 # text = Ωραία είν’ εκεί πέρα, κάκ’ έχ’ σίγουρα, αλλά δεν έχ’ δρόμου να πας.
 # text_el = Ωραία είναι εκεί πέρα, κάτι έχιε σίγουρα, αλλά δεν έχει δρόμο να πας.
 1	Ωραία	ουραία	ADV	_	_	0	root	_	_
-2	είν’	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	cop	_	_
+2	είν’	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	εκεί	ικεί	ADV	_	_	4	advmod	_	_
 4	πέρα	πέρα	ADV	_	_	1	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
@@ -7837,7 +7839,7 @@
 1	Του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
 2	δκό	δκός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
 3	μ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
-4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	cop	_	_
+4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
 5	λίγου	λίγου	ADV	_	PronType=Ind	7	advmod	_	_
 6	πιο	πιο	ADV	_	Degree=Cmp	7	advmod	_	_
 7	πάνου	πάνου	ADV	_	_	0	root	_	SpaceAfter=No
@@ -7897,7 +7899,7 @@
 # source = Recording (Date:2023-2024, Location:Parakoila, Gender:Female)
 # text = Ήταν πουλυμελή οικουγένεια, 9 κι 9 και η μαμά μ’ και ο μπαμπάς μ’.
 # text_el = Ήταν πολυμελής οικογένεια, 9 και 9 και η μαμά μου και ο μπαμπάς μου.
-1	Ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	_
+1	Ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 2	πουλυμελή	πουλυμιλής	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	οικουγένεια	κουγένεια	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
@@ -7951,7 +7953,7 @@
 # text = Κιριστές είναι τα ταβάνια τα ξύλινα και τα ταμπάνια στου σπίτ’ μας που δεν ήξιρε κανείς να τα φτιάξ’.
 # text_el = Κιριστές είναι τα ταβάνια, τα ξύλιν και τα ταβάνια στο σπίτι μας που δεν ήξερε κανείς να τα φτιάξει.
 1	Κιριστές	κιριστές	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
-2	είναι	είμι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	cop	_	_
+2	είναι	είμι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
 4	ταβάνια	ταβάν	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
 5	τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	_	_
@@ -7980,7 +7982,7 @@
 1	Έτσ’	έτσ	ADV	_	_	2	dislocated	_	_
 2	έπρεπ’	πρέπ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	να	να	SCONJ	_	_	2	csubj	_	_
-4	‘ναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	orphan	_	SpaceAfter=No
+4	‘ναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	orphan	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 6	ναι	ναι	INTJ	_	Polarity=Pos	2	discourse	_	SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
@@ -8020,7 +8022,7 @@
 # source = Recording (Date:2023-2024, Location:Chidira, Gender:Female)
 # text = Ήνταν η γναίκα τ’ έγκυος, γέννσε τσ’ έκανε του μουρό ήνταν σακάτκο.
 # text_el = Ήταν η γυναίκα του έγκυος, γέννηες και έκανε το μωρό (που) ήταν σακάτικο.
-1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	cop	_	_
+1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 2	η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	γναίκα	γναίκα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 4	τ’	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	_
@@ -8031,7 +8033,7 @@
 9	έκανε	κάνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
 10	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
 11	μουρό	μουρό	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
-12	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	13	cop	_	Voicing=Voiced
+12	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	Voicing=Voiced
 13	σακάτκο	σακάτκος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	7	parataxis	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
@@ -8099,12 +8101,12 @@
 3	ζήσουμ’	ζω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 5	λέει	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No
-6	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
-7	μες	μέσα	ADP	_	ExtPos=ADP	10	case	_	_
+6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+7	μες	μέσα	ADV	_	_	3	advmod	_	_
 8-9	στου	_	_	_	_	_	_	_	_
-8	σ	σι	ADP	_	_	7	fixed	_	_
+8	σ	σι	ADP	_	_	10	case	_	_
 9	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
-10	Τσαμλίκ’	Τσαμλίκ	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+10	Τσαμλίκ’	Τσαμλίκ	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = oral_corpus_139
@@ -8240,7 +8242,7 @@
 # text = Φκη ήταν ψλή τσι μίλαε ελληνικούρες.
 # text_el = Αυτή ήταν ψηλή και μιλούσε ελληνικούρες.
 1	Φκη	εύτους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	PhonVariant=Palatalized
-2	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	cop	_	_
+2	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 3	ψλή	ψλός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 4	τσι	τσι	CCONJ	_	_	5	cc	_	_
 5	μίλαε	μλώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
@@ -8256,7 +8258,7 @@
 3	τσαι	τσι	CCONJ	_	_	4	cc	_	_
 4	ζωγραφίζ’	ζουγραφίζου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
-6	είν’	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	cop	_	_
+6	είν’	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	όμορφ’	όμουρφους	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 8	η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	ζωγραφιά	ζουγραφιά	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	SpaceAfter=No
@@ -8281,8 +8283,8 @@
 # source = Recording (Date:2023-2024, Location:Eressos, Gender:Male)
 # text = Είμαι τζουμπάνς.
 # text_el = Είμαι τσοπάνης.
-1	Είμαι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	_
-2	τζουμπάνς	τσουπάνς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Voicing=Voiced|SpaceAfter=No
+1	Είμαι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	τζουμπάνς	τσουπάνς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No|Voicing=Voiced
 3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = oral_corpus_152
@@ -8299,7 +8301,7 @@
 8-9	στς	_	_	_	_	_	_	_	_
 8	σ	σι	ADP	_	_	10	case	_	_
 9	τς	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	μπροφορά	προυφουρά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	Voicing=Voiced|SpaceAfter=No
+10	μπροφορά	προυφουρά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No|Voicing=Voiced
 11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = oral_corpus_153
@@ -8450,11 +8452,11 @@
 2	αντρού	άντρας	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
 3	τς	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 4	που	που	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	_
-5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_
+5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
 6-7	σκη	_	_	_	_	_	_	_	_
 6	σ	σι	ADP	_	_	8	case	_	_
 7	κη	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	PhonVariant=Palatalized
-8	Αμερική	Αμιρκή	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	acl:relcl	_	SpaceAfter=No
+8	Αμερική	Αμιρκή	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	2	acl:relcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = oral_corpus_163
@@ -8553,15 +8555,15 @@
 # source = Recording (Date:2023-2024, Location:Chidira, Gender:Female)
 # text = Ήνταν ένας άνθρωπος μες στου χωριό.
 # text_el = Ήταν ένας άνθρωπος μέσα στο χωριό.
-1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	cop	_	Voicing=Voiced
+1	Ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	Voicing=Voiced
 2	ένας	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	άνθρωπος	άνθρουπους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
-4	μες	μέσα	ADV	_	ExtPos=ADP	7	case	_	_
+3	άνθρωπος	άνθρουπους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	μες	μέσα	ADV	_	_	0	root	_	_
 5-6	στου	_	_	_	_	_	_	_	_
-5	σ	σι	ADP	_	_	4	fixed	_	_
+5	σ	σι	ADP	_	_	7	case	_	_
 6	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
-7	χωριό	χουριό	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+7	χωριό	χουριό	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = oral_corpus_170
 # source = Recording (Date:2023-2024, Location:Chidira, Gender:Female)
@@ -8571,7 +8573,7 @@
 2	θειά	θεια	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
 3	τς	ιγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
 4	άντρας	άντρας	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	cop	_	SpaceAfter=No
+5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	SpaceAfter=No
 6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = oral_corpus_171
@@ -8786,7 +8788,7 @@
 2	γιαγιά	γιαγιά	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
 3	μ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
 4	ρέει	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	Rhotacism=Yes
-5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	cop	_	_
+5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
 6	5	5	NUM	_	NumType=Card	9	nummod	_	_
 7	-	-	PUNCT	_	PunctType=Dash	8	punct	_	_
 8	6	6	NUM	_	NumType=Card	6	conj	_	_
@@ -8821,12 +8823,12 @@
 # source = Recording (Date:2023-2024, Location:Agra, Gender:Male)
 # text = Μέσα στς προβιές.
 # text_el = Μέσα στις προβιές.
-1	Μέσα	μέσα	ADV	_	ExtPos=ADP	4	case	_	_
+1	Μέσα	μέσα	ADV	_	_	0	root	_	_
 2-3	στς	_	_	_	_	_	_	_	_
-2	σ	σι	ADP	_	_	1	fixed	_	_
+2	σ	σι	ADP	_	_	4	case	_	_
 3	τς	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
-4	προβιές	προυβιά	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+4	προβιές	προυβιά	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = oral_corpus_186
 # source = Recording (Date:2023-2024, Location:Chidira, Gender:Female)
@@ -8859,7 +8861,7 @@
 1	Τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	_
 2	οικονομκά	κουνουμκός	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
 3	τ’	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
-4	ήταν	είμι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	cop	_	_
+4	ήταν	είμι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 5	κουμμάτ’	κουμμάτ	ADV	_	_	6	advmod	_	_
 6	στρμωγμένα	στρμουγμένους	VERB	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
@@ -8918,7 +8920,7 @@
 9	θάλασσα	θάλασσα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 11	γιατί	γιατί	SCONJ	_	_	15	mark	_	_
-12	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	cop	_	Voicing=Voiced
+12	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	Voicing=Voiced
 13	απ’	απού	ADP	_	_	15	case	_	_
 14	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	15	det	_	_
 15	παράλια	παράλιου	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	advcl	_	SpaceAfter=No
@@ -8960,7 +8962,7 @@
 3	σκοτώστσε	σκουτώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	_
 4	για	για	ADP	_	_	6	case	_	_
 5	ντ’	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Voicing=Voiced
-6	μπατρίδα	πατρίδα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	Voicing=Voiced|SpaceAfter=No
+6	μπατρίδα	πατρίδα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No|Voicing=Voiced
 7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = oral_corpus_196
@@ -8976,7 +8978,7 @@
 6	σ	σι	ADP	_	_	8	case	_	_
 7	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
 8	Σίγρ’	Σίγρ	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
-9	μπαντρεμένα	παντριμένους	VERB	_	Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	5	advcl	_	Voicing=Voiced|SpaceAfter=No
+9	μπαντρεμένα	παντριμένους	VERB	_	Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	5	advcl	_	SpaceAfter=No|Voicing=Voiced
 10	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = oral_corpus_197
@@ -8994,7 +8996,7 @@
 9	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	_	_
 10	πρώτα	πρώτους	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	11	amod	_	_
 11	χρούνια	χρόνους	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	14	obl	_	_
-12	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	14	cop	_	_
+12	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	_
 13	πιο	πιο	ADV	_	Degree=Cmp	14	advmod	_	_
 14	δύσκουλ’	δύσκουλους	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	parataxis	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
@@ -9013,7 +9015,7 @@
 4	ντ’	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Voicing=Voiced
 5	μπαλκάρα	παλκαράς	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	Voicing=Voiced
 6	αλλά	αλλά	CCONJ	_	_	12	cc	_	_
-7	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	cop	_	Voicing=Voiced
+7	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	Voicing=Voiced
 8	τσι	τσι	CCONJ	_	_	12	cc	_	_
 9	ο	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	άλλους	άλλους	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	12	nsubj	_	_
@@ -9029,7 +9031,7 @@
 2-3	σντ’	_	_	_	_	_	_	_	_
 2	σ	σι	ADP	_	_	4	case	_	_
 3	ντ’	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Voicing=Voiced
-4	Μπηγή	Πηγή	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	Voicing=Voiced|SpaceAfter=No
+4	Μπηγή	Πηγή	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No|Voicing=Voiced
 5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = oral_corpus_200
@@ -9134,7 +9136,7 @@
 10	γιατί	γιατί	SCONJ	_	_	14	mark	_	_
 11	ο	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	κόσμους	κόσμους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
-13	είναι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	cop	_	_
+13	είναι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 14	κακός	κακός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	advcl	_	SpaceAfter=No
 15	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
@@ -9307,11 +9309,11 @@
 3	σ	σι	ADP	_	_	5	case	_	_
 4	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	σπίτ’	σπίτ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	_
-6	μπρουστά	μπρουστά	ADV	_	ExtPos=ADP	9	case	_	_
+6	μπρουστά	μπρουστά	ADV	_	_	10	advmod	_	_
 7-8	στου	_	_	_	_	_	_	_	_
-7	σ	σι	ADP	_	_	6	fixed	_	_
+7	σ	σι	ADP	_	_	9	case	_	_
 8	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
-9	τζάκ’	τζάκ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	_
+9	τζάκ’	τζάκ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
 10	γεννήθκα	γιννώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 11	ούτε	ούτι	CCONJ	_	_	14	cc	_	_
 12-13	στη	_	_	_	_	_	_	_	_
@@ -9324,7 +9326,6 @@
 # source = Recording (Date:2023-2024, Location:Chidira, Gender:Female)
 # text = Εν ξέρου, εν είχε τσαι νερά, όπως λέει.
 # text_el = Δεν ξέρω, δεν είχε και νερά, όπως λέει.
-# timestamp = 1751304735589.5742
 1	Εν	δεν	PART	_	Polarity=Neg	2	advmod	_	_
 2	ξέρου	ξέρου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
@@ -9356,7 +9357,7 @@
 # text = Φκοι ήνταν στσ’ εξουσία.
 # text_el = Αυτοί ήταν στην εξουσία.
 1	Φκοι	εύτους	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	5	nsubj	_	_
-2	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	cop	_	_
+2	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 3-4	στσ’	_	_	_	_	_	_	_	_
 3	σ	σι	ADP	_	_	5	case	_	_
 4	τσ’	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -9395,12 +9396,12 @@
 15	ούλ’	ούλους	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	14	nsubj	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 17	γιατί	γιατί	SCONJ	_	_	19	mark	_	_
-18	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	19	cop	_	_
+18	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	_
 19	χήρα	χήρα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	advcl	_	_
 20	τσαι	τσι	CCONJ	_	_	21	cc	_	_
 21	έπρεπε	πρέπ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	_	_
 22	να	να	SCONJ	_	_	24	mark	_	_
-23	είναι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	24	cop	_	_
+23	είναι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
 24	τέτοια	τέτοιους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	21	csubj	_	SpaceAfter=No
 25	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
@@ -9445,7 +9446,7 @@
 4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 5	δικαίωμά	δκαίουμα	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	parataxis	_	_
 6	σ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod	_	_
-7	είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	cop	_	SpaceAfter=No
+7	είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = oral_corpus_225
@@ -9460,7 +9461,7 @@
 5	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 6	τότε	τότι	ADV	_	_	10	advmod	_	_
 7	δεν	δεν	PART	_	Polarity=Neg	10	advmod	_	_
-8	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	10	cop	_	_
+8	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
 9	το	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
 10	λιμάν’	λιμάν	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
@@ -9470,7 +9471,7 @@
 # text = Τσ’ ήταν ούλο του Σίγρ’ δεκό τ’.
 # text_el = Και ήταν όλο το Σίγρι δικό του.
 1	Τσ’	τσι	CCONJ	_	_	6	cc	_	_
-2	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	cop	_	_
+2	ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 3	ούλο	ούλους	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	5	det	_	_
 4	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	Σίγρ’	Σίγρ	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
@@ -9597,7 +9598,7 @@
 1	Η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	γιαγιά	γιαγιά	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 3	μ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
-4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	cop	_	_
+4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 5	γεννμέν’	γεννμένους	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
 6	το	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
 7	1916	1916	X	_	_	5	obl	_	SpaceAfter=No
@@ -9613,7 +9614,7 @@
 4	διάβασα	διαβάζου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 6	εν	δεν	PART	_	Polarity=Neg	11	advmod	_	_
-7	είν’	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	cop	_	_
+7	είν’	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 8	σ	σι	ADP	_	_	11	case	_	_
 9	ούλα	ούλους	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	11	det	_	_
 10	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	_	_
@@ -9632,8 +9633,8 @@
 2	το	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	χωριό	χουριό	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
-5	είμαι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	cop	_	_
-6	μπαντρεμένος	παντριμένους	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	conj	_	Voicing=Voiced|SpaceAfter=No
+5	είμαι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	μπαντρεμένος	παντριμένους	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	conj	_	SpaceAfter=No|Voicing=Voiced
 7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 8	έχω	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
 9	ένα	ένας	NUM	_	Case=Acc|Gender=Neut|Number=Sing|NumType=Card	10	nummod	_	_
@@ -9685,9 +9686,9 @@
 14	βλέπ’	βλέπου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	_
 15	τς	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
 16	γάμπες	γάμπα	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
-17	χωρίς	χουρίς	ADP	_	ExtPos=ADP	20	mark	_	_
-18	να	να	SCONJ	_	_	17	fixed	_	_
-19	είμαστε	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	20	cop	_	_
+17	χωρίς	χουρίς	ADP	_	_	20	mark	_	_
+18	να	να	SCONJ	_	_	20	mark	_	_
+19	είμαστε	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	cop	_	_
 20	παντρεμέν’	παντριμένους	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	14	advcl	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
@@ -9741,7 +9742,7 @@
 20	βρατσί	βρατσί	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	21	dislocated	_	_
 21	έπρεπε	πρέπ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
 22	να	να	SCONJ	_	_	24	mark	_	_
-23	είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	24	cop	_	_
+23	είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
 24	μαύρο	μαύρους	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	21	csubj	_	SpaceAfter=No
 25	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
@@ -9827,11 +9828,11 @@
 1	Πήγαινε	πγαίνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	φτους	εύτους	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
 3	πια	πια	ADV	_	_	1	advmod	_	_
-4	μέσα	μέσα	ADV	_	ExtPos=ADP	7	case	_	_
+4	μέσα	μέσα	ADV	_	_	1	advmod	_	_
 5-6	στου	_	_	_	_	_	_	_	_
-5	σ	σι	ADP	_	_	4	fixed	_	_
+5	σ	σι	ADP	_	_	7	case	_	_
 6	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
-7	σπίκ’	σπίτ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	PhonVariant=Palatalized|SpaceAfter=No
+7	σπίκ’	σπίτ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	PhonVariant=Palatalized|SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = oral_corpus_249
@@ -9903,7 +9904,7 @@
 2	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 3	άμα	άμα	SCONJ	_	_	6	mark	_	_
 4	εν	δεν	PART	_	Polarity=Neg	6	advmod	_	_
-5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	cop	_	Voicing=Voiced
+5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	Voicing=Voiced
 6	καλή	καλός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 7	η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	πεθερά	πιθιρά	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
@@ -9935,7 +9936,7 @@
 4	«	«	PUNCT	_	PunctType=Quot	8	punct	_	SpaceAfter=No
 5	Ο	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Τούρκους	Τούρκους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
-7	είν’	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	cop	_	_
+7	είν’	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	Τούρκους	Τούρκους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	ccomp	_	SpaceAfter=No
 9	»	»	PUNCT	_	PunctType=Quot	3	punct	_	SpaceAfter=No
 10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
@@ -9959,7 +9960,7 @@
 1	Πήραν	παίρνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	τς	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	οικουγένειές	κουγένεια	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	_
-4	ντουν	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	Voicing=Voiced|SpaceAfter=No
+4	ντουν	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	SpaceAfter=No|Voicing=Voiced
 5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 6	φύγαν	φεύγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
@@ -10076,7 +10077,7 @@
 # source = Recording (Date:2023-2024, Location:Chidira, Gender:Female)
 # text = Ήταν μεγάλ’ στα χρούνια και, άμα μας ήβλεπε τσαι βγάζαμ’ τς κάρτσες μας, ήλεγε: «‘μείς αυτά που κάντε δε τα κάναμε».
 # text_el = Ήταν μεγάλη στα χρόνια και, άμα μας έβλεπε και βγάζαμε τις κάλτσες μας, έλεγε: «Εμείς αυτά που κάνετε δεν τα κάναμε».
-1	Ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	cop	_	_
+1	Ήταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
 2	μεγάλ’	μιγάλους	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 3-4	στα	_	_	_	_	_	_	_	_
 3	σ	σι	ADP	_	_	5	case	_	_
@@ -10150,7 +10151,7 @@
 # text_el = Όχι, δεν ήταν κανείς.
 1	Όχ’	όχ	INTJ	_	Polarity=Neg	4	discourse	_	_
 2	εν	δεν	PART	_	Polarity=Neg	4	advmod	_	_
-3	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	cop	_	Voicing=Voiced
+3	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	Voicing=Voiced
 4	κανείς	κανένας	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
