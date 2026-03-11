@@ -4888,7 +4888,7 @@
 3	ιρουτιβμένους	ιρουτιβμένους	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
 4	π	που	SCONJ	_	_	5	mark	_	_
 5	ακγόνταν	ακούγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	advcl	_	_
-6	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	CorrectForm=η
 7	γ’-απόχτπους	απόχτπους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	MGloss=euphonic-beat|MSeg=γ’-απόχτπους
 8	ιτ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod	_	MGloss=euphonic-his|MSeg=ι-τ|SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
@@ -5099,7 +5099,7 @@
 4	καθόνταν	κάθουμι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 5	καλά	καλά	ADV	_	_	4	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-7	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	CorrectForm=η
 8	κώλους	κώλους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 9	ιτ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod	_	MGloss=euphonic-his|MSeg=ι-τ
 10	τουν	ιγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
@@ -5171,7 +5171,7 @@
 2	μέρα	μέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
 3	π	που	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	4	obl	_	_
 4	γιουρτάζ	γιουρτάζου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
-5	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+5	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	CorrectForm=η
 6	γ’-Άγιους	άγιους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	MGloss=euphonic-saint|MSeg=γ’-Άγιους
 7	Ραφαήλ	Ραφαήλ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 8	τα	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	9	expl	_	_
@@ -5359,7 +5359,7 @@
 5	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	_	_
 6	γόνατα	γόνατου	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
 7	τ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod	_	_
-8	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	CorrectForm=η
 9	πάππους	πάππους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
 10	πουρπατεί	πουρπατώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 11	ανακούρκουδα	ανακούρκουδα	ADV	_	_	10	advmod	_	SpaceAfter=No
@@ -5480,7 +5480,7 @@
 # source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ι καπιτάν Ν’κόλας βάστα μι τό να χέρ του δοιάκ’ κι μι τ άλλου του κουμπουλόγ’.
 # text_el = Ο καπετάν-Νικόλας βαστούσε με το ένα χέρι το τιμόνι και με το άλλο το κομπολόι.
-1	Ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+1	Ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	CorrectForm=Η
 2	καπιτάν	καπιτάν	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	compound	_	_
 3	Ν’κόλας	Νκόλας	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 4	βάστα	βαστώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5713,7 +5713,7 @@
 # source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ι γιατρός τ είπι να βάζ κρυγιόμπλαστρα για μια βδουμάδα.
 # text_el = Η γιατρός του είπε να βάζει κρύα έμπλαστρα για μια εβδομάδα.
-1	Ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+1	Ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	CorrectForm=Η
 2	γιατρός	γιατρός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 3	τ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
 4	είπι	λέγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -5860,7 +5860,7 @@
 3	να	να	AUX	_	_	4	aux	_	_
 4	γίν’	γίνουμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
 5	καλά	καλά	ADV	_	_	4	advmod	_	_
-6	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	CorrectForm=η
 7	γιος	γιος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 8	ιμ	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod	_	MGloss=euphonic-my|MSeg=ι-μ
 9	τσ	τσι	CCONJ	_	_	11	cc	_	_
@@ -6119,9 +6119,9 @@
 # source = Ralli, A. (2017). Dictionary of the Dialectal Variety of Kydonies-Moschonisia and Northeastern Lesvos [Leksiko Dialektikis Poikilias Kydonion-Moschonision kai Voreioanatolikis Lesvou]. Hellenic Foundation for Historical Studies (IDISME).
 # text = Ι Κώστας ι ρουμνιουράφτς ήνταν γείτουνάς ιμ.
 # text_el = Ο Κώστας ο βρακοράφτης ήταν γείτονάς μου.
-1	Ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+1	Ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	CorrectForm=Η
 2	Κώστας	Κώστας	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-3	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	ι	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	CorrectForm=η
 4	ρουμνιουράφτς	ρουμνιουράφτς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
 5	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 6	γείτουνάς	γείτουνας	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
