@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Greek-Lesbian:
-commit 4ee35c2efcc00e339daa3ad93ea71e813eedf04e
-Merge: 9ed8dbe 38955e6
+commit b7f591e49cf1023e147bc5614a8fe2a49265d39a
+Merge: bca9e17 4096540
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'el_lesbian'
 Language code (from CoNLL-U file name) = 'el'
 Found the following data files: el_lesbian-ud-test.conllu
-Size: counted 5926 of 5926 words (nodes).
-Size: min(0, log((N/1000)**2)) = 3.55869889830275.
+Size: counted 6840 of 6840 words (nodes).
+Size: min(0, log((N/1000)**2)) = 3.84557546326892.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,33 +19,33 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 3934 out of 5926 total words have one or more features.
+Features: 5555 out of 6840 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang el --max-err=10 UD_Greek-Lesbian/el_lesbian-ud-test.conllu
-[Line 6 Sent written_corpus_1]: [L3 Warning fixed-without-extpos] Fixed expression 'θα ν' does not have the 'ExtPos' feature
-[Line 280 Sent written_corpus_14]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'Σιγά * π’'
-[Line 438 Sent written_corpus_23]: [L3 Warning fixed-without-extpos] Fixed expression 'θα ν' does not have the 'ExtPos' feature
-[Line 1807 Sent written_corpus_102]: [L3 Warning fixed-without-extpos] Fixed expression 'θα ν' does not have the 'ExtPos' feature
-[Line 3023 Sent written_corpus_173]: [L3 Warning fixed-without-extpos] Fixed expression 'θα ν' does not have the 'ExtPos' feature
-[Line 3172 Sent written_corpus_181]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
-[Line 3289 Sent written_corpus_188]: [L3 Warning fixed-without-extpos] Fixed expression 'θα ν' does not have the 'ExtPos' feature
-[Line 3706 Sent written_corpus_211]: [L3 Warning pron-det-without-prontype] The word 'κατ’' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 3848 Sent written_corpus_218]: [L3 Warning fixed-without-extpos] Fixed expression 'θα ν' does not have the 'ExtPos' feature
-[Line 3931 Sent written_corpus_223]: [L3 Warning orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
-...suppressing further errors regarding Warning
-Warnings: 16
+[Line 6 Sent written_corpus_1]: [L3 WARNING fixed-without-extpos] Fixed expression 'θα ν' does not have the 'ExtPos' feature
+[Line 438 Sent written_corpus_23]: [L3 WARNING fixed-without-extpos] Fixed expression 'θα ν' does not have the 'ExtPos' feature
+[Line 1809 Sent written_corpus_102]: [L3 WARNING fixed-without-extpos] Fixed expression 'θα ν' does not have the 'ExtPos' feature
+[Line 3025 Sent written_corpus_173]: [L3 WARNING fixed-without-extpos] Fixed expression 'θα ν' does not have the 'ExtPos' feature
+[Line 3174 Sent written_corpus_181]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'appos'.
+[Line 3291 Sent written_corpus_188]: [L3 WARNING fixed-without-extpos] Fixed expression 'θα ν' does not have the 'ExtPos' feature
+[Line 3850 Sent written_corpus_218]: [L3 WARNING fixed-without-extpos] Fixed expression 'θα ν' does not have the 'ExtPos' feature
+[Line 3933 Sent written_corpus_223]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
+[Line 4220 Sent written_corpus_239]: [L3 WARNING fixed-without-extpos] Fixed expression 'Θα ν’' does not have the 'ExtPos' feature
+[Line 4367 Sent written_corpus_246]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obl'.
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 15
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
 (weight=0.111111111111111) * (score{genres}=0.166666666666667) = 0.0185185185185185
 (weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
-(weight=0.37037037037037) * (score{size}=0.257587215714677) = 0.0954026724869176
+(weight=0.37037037037037) * (score{size}=0.278352033906705) = 0.103093345891372
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
 (weight=0.111111111111111) * (score{udeprels}=0.918918918918919) = 0.102102102102102
-(TOTAL score=0.543561419469194) * (availability=1) * (validity=1) = 0.543561419469194
-STARS = 2.5
-UD_Greek-Lesbian	0.543561419469194	2.5
+(TOTAL score=0.551252092873649) * (availability=1) * (validity=1) = 0.551252092873649
+STARS = 3
+UD_Greek-Lesbian	0.551252092873649	3
