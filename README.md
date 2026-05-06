@@ -1,6 +1,6 @@
 # Summary
 
-A Universal Dependencies (UD) treebank for the dialect of Lesbos, a low-resource living Northern variety of Modern Greek. The treebank currently contains 540 sentences with manual annotations following the Universal Dependencies framework, representing the first UD treebank for a Northern Modern Greek dialect.
+A Universal Dependencies (UD) treebank for the dialect of Lesbos, a low-resource living Northern variety of Modern Greek. The treebank currently contains 625 sentences with manual annotations following the Universal Dependencies framework, representing the first UD treebank for a Northern Modern Greek dialect.
 
 # Introduction
 
@@ -31,6 +31,8 @@ The treebank follows the UD annotation guidelines established for UD_Greek-GUD, 
 ### Lemmatization
 
 * Words diverging from SMG counterparts are assigned lemma forms that preserve dialectal characteristics
+
+* When multiple intra-dialectal phonological variants correspond to the same lexical item, a single common lemma is used and the surface phonological difference is recorded in the MISC column using `PhonVariant` (e.g., `PhonVariant=Deaffricated`).
 
 * Apostrophes are eliminated from lemmas to standardize representation across inconsistent source texts
 
@@ -73,9 +75,9 @@ These recordings capture speakers of different ages and local varieties, reflect
 
 # Statistics
 
-* Sentences: 540
+* Sentences: 625
 
-* Tokens: 6,466
+* Tokens: 6,624
 
 
 # Acknowledgments
@@ -95,6 +97,13 @@ This work has been carried out within the Archimedes Research Unit of the Athena
   * Added oral corpus component (field recordings 2023–2024).
   * Added metadata fields (`sent_id`, `source`) for all sentences.
   * Minor updates and metadata refinements for UD release consistency.
+* 2026-03-09 v2.17
+  * Added 85 sentences from written data sourced from Ralli (2017).
+  * Updated several lemmas for improved consistency.
+  * Added information about phonological intradialectal variants in the MISC column in cases where a common lemma is used for different surface realizations.
+  * Updated the annotation of punctuation to ensure consistency across the treebank.
+* 2026-03-09 v2.17
+  * Updated the annotation of fixed expressions to ensure consistency with the UD_Greek-GUD treebank.
 
 
 <pre>
