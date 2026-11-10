@@ -118,7 +118,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Bompolas, Stavros; Markantonatou, Stella; Anastasopoulos, Antonios; Stamou, Vivian
+Contributors: Bompolas, Stavros; Markantonatou, Stella; Anastasopoulos, Antonios
 Contributing: here
 Contact: s.bompolas@athenarc.gr
 ===============================================================================
